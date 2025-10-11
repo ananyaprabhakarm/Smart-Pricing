@@ -1,0 +1,745 @@
+{
+  "total_images_processed": 1000,
+  "successful_ocr_extractions": 1000,
+  "success_rate_percentage": 100.0,
+  "average_confidence_score": 79.15292048412452,
+  "average_words_per_image": 28.353028064992614,
+  "status_distribution": {
+    "success": 1000
+  },
+  "sample_results": [
+    {
+      "sample_id": 33127,
+      "extracted_text": "",
+      "confidence_score": 95.0,
+      "word_count": 0,
+      "status": "success",
+      "image_dimensions": [
+        1000,
+        1000
+      ],
+      "ocr_data": {
+        "level": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "page_num": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "block_num": [
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "par_num": [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "line_num": [
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "word_num": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "left": [
+          0,
+          368,
+          368,
+          368,
+          368
+        ],
+        "top": [
+          0,
+          108,
+          108,
+          108,
+          108
+        ],
+        "width": [
+          1000,
+          264,
+          264,
+          264,
+          264
+        ],
+        "height": [
+          1000,
+          846,
+          846,
+          846,
+          846
+        ],
+        "conf": [
+          -1,
+          -1,
+          -1,
+          -1,
+          95
+        ],
+        "text": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "image_url": "https://m.media-amazon.com/images/I/51mo8htwTHL.jpg",
+      "catalog_content": "Item Name: La Victoria Green Taco Sauce Mild, 12 Ounce (Pack of 6)\nValue: 72.0\nUnit: Fl Oz\n",
+      "price": 4.890000000000001,
+      "image_path": "../ocr_output/images/33127_51mo8htwTHL.jpg"
+    },
+    {
+      "sample_id": 198967,
+      "extracted_text": "",
+      "confidence_score": 95.0,
+      "word_count": 0,
+      "status": "success",
+      "image_dimensions": [
+        1200,
+        1200
+      ],
+      "ocr_data": {
+        "level": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "page_num": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "block_num": [
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "par_num": [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "line_num": [
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "word_num": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "left": [
+          0,
+          10,
+          10,
+          10,
+          10
+        ],
+        "top": [
+          0,
+          110,
+          110,
+          110,
+          110
+        ],
+        "width": [
+          1200,
+          1178,
+          1178,
+          1178,
+          1178
+        ],
+        "height": [
+          1200,
+          984,
+          984,
+          984,
+          984
+        ],
+        "conf": [
+          -1,
+          -1,
+          -1,
+          -1,
+          95
+        ],
+        "text": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "image_url": "https://m.media-amazon.com/images/I/71YtriIHAAL.jpg",
+      "catalog_content": "Item Name: Salerno Cookies, The Original Butter Cookies, 8 Ounce (Pack of 4)\nBullet Point 1: Original Butter Cookies: Classic butter cookies made with real butter\nBullet Point 2: Variety Pack: Includes 4 boxes with 32 cookies total\nBullet Point 3: Occasion Perfect: Delicious cookies for birthdays, weddings, anniversaries\nBullet Point 4: Shareable Treats: Fun to give and enjoy with friends and family\nBullet Point 5: Salerno Brand: Trusted brand of delicious butter cookies since 1925\nValue: 32.0\nUnit: Ounce\n",
+      "price": 13.12,
+      "image_path": "../ocr_output/images/198967_71YtriIHAAL.jpg"
+    },
+    {
+      "sample_id": 261251,
+      "extracted_text": "Cickan s Wi hewe 9",
+      "confidence_score": 63.75,
+      "word_count": 5,
+      "status": "success",
+      "image_dimensions": [
+        500,
+        500
+      ],
+      "ocr_data": {
+        "level": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          4,
+          5,
+          2,
+          3,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "page_num": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "block_num": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "par_num": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "line_num": [
+          0,
+          0,
+          0,
+          1,
+          1,
+          2,
+          2,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "word_num": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "left": [
+          0,
+          6,
+          6,
+          6,
+          6,
+          58,
+          58,
+          178,
+          178,
+          178,
+          178,
+          210,
+          234,
+          252,
+          280
+        ],
+        "top": [
+          0,
+          52,
+          52,
+          52,
+          52,
+          324,
+          324,
+          304,
+          304,
+          304,
+          311,
+          314,
+          305,
+          304,
+          312
+        ],
+        "width": [
+          500,
+          488,
+          488,
+          488,
+          488,
+          344,
+          344,
+          115,
+          115,
+          115,
+          29,
+          3,
+          13,
+          25,
+          13
+        ],
+        "height": [
+          500,
+          390,
+          390,
+          272,
+          272,
+          118,
+          118,
+          16,
+          16,
+          16,
+          8,
+          5,
+          15,
+          16,
+          5
+        ],
+        "conf": [
+          -1,
+          -1,
+          -1,
+          -1,
+          95,
+          -1,
+          95,
+          -1,
+          -1,
+          -1,
+          0,
+          28,
+          0,
+          0,
+          37
+        ],
+        "text": [
+          "",
+          "",
+          "",
+          "",
+          "     ",
+          "",
+          " ",
+          "",
+          "",
+          "",
+          "Cickan",
+          "s",
+          "Wi",
+          "hewe",
+          "9"
+        ]
+      },
+      "image_url": "https://m.media-amazon.com/images/I/51+PFEe-w-L.jpg",
+      "catalog_content": "Item Name: Bear Creek Hearty Soup Bowl, Creamy Chicken with Rice, 1.9 Ounce (Pack of 6)\nBullet Point 1: Loaded with hearty long grain wild rice and vegetables\nBullet Point 2: Full of hearty goodness\nBullet Point 3: Single serve bowls\nBullet Point 4: Easy to prepare mix\nBullet Point 5: 0 grams trans fat\nValue: 11.4\nUnit: Ounce\n",
+      "price": 1.97,
+      "image_path": "../ocr_output/images/261251_51+PFEe-w-L.jpg"
+    },
+    {
+      "sample_id": 55858,
+      "extracted_text": "BLUE\nCHEESE\nPOWDER\n\n11.25 02",
+      "confidence_score": 87.16666666666667,
+      "word_count": 5,
+      "status": "success",
+      "image_dimensions": [
+        500,
+        500
+      ],
+      "ocr_data": {
+        "level": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          4,
+          5,
+          4,
+          5,
+          2,
+          3,
+          4,
+          5,
+          5,
+          2,
+          3,
+          4,
+          5
+        ],
+        "page_num": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "block_num": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3
+        ],
+        "par_num": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "line_num": [
+          0,
+          0,
+          0,
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1
+        ],
+        "word_num": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1
+        ],
+        "left": [
+          0,
+          166,
+          166,
+          167,
+          167,
+          166,
+          166,
+          167,
+          167,
+          172,
+          172,
+          172,
+          172,
+          205,
+          136,
+          136,
+          136,
+          136
+        ],
+        "top": [
+          0,
+          222,
+          222,
+          222,
+          222,
+          246,
+          246,
+          273,
+          273,
+          311,
+          311,
+          311,
+          311,
+          311,
+          124,
+          124,
+          124,
+          124
+        ],
+        "width": [
+          500,
+          101,
+          101,
+          58,
+          58,
+          90,
+          90,
+          100,
+          100,
+          48,
+          48,
+          48,
+          28,
+          15,
+          226,
+          226,
+          226,
+          226
+        ],
+        "height": [
+          500,
+          70,
+          70,
+          19,
+          19,
+          20,
+          20,
+          19,
+          19,
+          10,
+          10,
+          10,
+          10,
+          10,
+          332,
+          332,
+          332,
+          332
+        ],
+        "conf": [
+          -1,
+          -1,
+          -1,
+          -1,
+          92,
+          -1,
+          91,
+          -1,
+          91,
+          -1,
+          -1,
+          -1,
+          85,
+          69,
+          -1,
+          -1,
+          -1,
+          95
+        ],
+        "text": [
+          "",
+          "",
+          "",
+          "",
+          "BLUE",
+          "",
+          "CHEESE",
+          "",
+          "POWDER",
+          "",
+          "",
+          "",
+          "11.25",
+          "02",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "image_url": "https://m.media-amazon.com/images/I/41mu0HAToDL.jpg",
+      "catalog_content": "Item Name: Judee’s Blue Cheese Powder 11.25 oz - Gluten-Free and Nut-Free - Use in Seasonings and Salad Dressings - Great for Dips, Spreads and Sauces - Made in USA\nBullet Point 1: Add to your favorite appetizers, dips & spreads. Use to season popcorn or warmed pita chips.\nBullet Point 2: Sprinkle over french fries, fried chicken, mashed potatoes, roasted veggies, pasta, and more\nBullet Point 3: Made in a dedicated gluten-free facility and shipped in a standup, resealable pouch to ensure freshness\nBullet Point 4: Ingredients: Blue Cheese (Milk, Salt, Cultures, & Enzymes) and Disodium Phosphate\nBullet Point 5: Since 2009, Judee’s has been dedicated to providing fresh, allergy-conscious ingredients, great for your recipes and even better for your family\nProduct Description: Judees Powdered Blue Cheese cheddar cheese powder is an alternative to mozzarella cheese shredded or american cheese slices deli. Make your own alfredo sauce with heavy cream and black buffalo dip with this powder. It adds extra flavor to salad dressing like ranch dressing and great on pizza dough or cauliflower pasta. Add to macaroni and cheese or popcorn seasoning for more aroma and cheesy feel. Combine with mustard and other ingredients to create your own dressing for buffalo chicken or buffalo wings.\nValue: 11.25\nUnit: Ounce\n",
+      "price": 30.34,
+      "image_path": "../ocr_output/images/55858_41mu0HAToDL.jpg"
+    },
+    {
+      "sample_id": 292686,
+      "extracted_text": "",
+      "confidence_score": 0.0,
+      "word_count": 0,
+      "status": "success",
+      "image_dimensions": [
+        1000,
+        1000
+      ],
+      "ocr_data": {
+        "level": [
+          1
+        ],
+        "page_num": [
+          1
+        ],
+        "block_num": [
+          0
+        ],
+        "par_num": [
+          0
+        ],
+        "line_num": [
+          0
+        ],
+        "word_num": [
+          0
+        ],
+        "left": [
+          0
+        ],
+        "top": [
+          0
+        ],
+        "width": [
+          1000
+        ],
+        "height": [
+          1000
+        ],
+        "conf": [
+          -1
+        ],
+        "text": [
+          ""
+        ]
+      },
+      "image_url": "https://m.media-amazon.com/images/I/41sA037+QvL.jpg",
+      "catalog_content": "Item Name: kedem Sherry Cooking Wine, 12.7 Ounce - 12 per case.\nBullet Point: kedem Sherry Cooking Wine, 12.7 Ounce - 12 per case.\nValue: 12.0\nUnit: Count\n",
+      "price": 66.49,
+      "image_path": "../ocr_output/images/292686_41sA037+QvL.jpg"
+    }
+  ]
+}
