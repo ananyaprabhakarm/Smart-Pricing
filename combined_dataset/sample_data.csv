@@ -1,0 +1,105 @@
+sample_id,item_name,item_description,item_quantity,unit,image_url,image_path,extracted_text,confidence_score,word_count,status,image_dimensions,catalog_content,price,text_length,char_count,line_count,has_numbers,has_currency,has_brand_keywords,has_size_info,has_material_info,has_color_info,has_extracted_text,text_quality_score,catalog_text_length,catalog_word_count,item_name_length,item_description_length,has_quantity,quantity_log,price_log,price_per_unit,category
+33127,"La Victoria Green Taco Sauce Mild, 12 Ounce (Pack of 6)",Food,72.0,Fl Oz,https://m.media-amazon.com/images/I/51mo8htwTHL.jpg,../ocr_output/images/33127_51mo8htwTHL.jpg,,95.0,0,success,"[1000, 1000]","Item Name: La Victoria Green Taco Sauce Mild, 12 Ounce (Pack of 6)
+Value: 72.0
+Unit: Fl Oz
+",4.890000000000001,,,,,,,,,,False,0.0,91,18,55,4,True,4.290459441148391,1.7732559976634954,0.06791666666666668,food
+198967,"Salerno Cookies, The Original Butter Cookies, 8 Ounce (Pack of 4)",Food,32.0,Ounce,https://m.media-amazon.com/images/I/71YtriIHAAL.jpg,../ocr_output/images/198967_71YtriIHAAL.jpg,,95.0,0,success,"[1200, 1200]","Item Name: Salerno Cookies, The Original Butter Cookies, 8 Ounce (Pack of 4)
+Bullet Point 1: Original Butter Cookies: Classic butter cookies made with real butter
+Bullet Point 2: Variety Pack: Includes 4 boxes with 32 cookies total
+Bullet Point 3: Occasion Perfect: Delicious cookies for birthdays, weddings, anniversaries
+Bullet Point 4: Shareable Treats: Fun to give and enjoy with friends and family
+Bullet Point 5: Salerno Brand: Trusted brand of delicious butter cookies since 1925
+Value: 32.0
+Unit: Ounce
+",13.12,,,,,,,,,,False,0.0,511,80,65,4,True,3.4965075614664802,2.647592232065096,0.41,food
+261251,"Bear Creek Hearty Soup Bowl, Creamy Chicken with Rice, 1.9 Ounce (Pack of 6)",Food,11.4,Ounce,https://m.media-amazon.com/images/I/51+PFEe-w-L.jpg,../ocr_output/images/261251_51+PFEe-w-L.jpg,Cickan s Wi hewe 9,63.75,5,success,"[500, 500]","Item Name: Bear Creek Hearty Soup Bowl, Creamy Chicken with Rice, 1.9 Ounce (Pack of 6)
+Bullet Point 1: Loaded with hearty long grain wild rice and vegetables
+Bullet Point 2: Full of hearty goodness
+Bullet Point 3: Single serve bowls
+Bullet Point 4: Easy to prepare mix
+Bullet Point 5: 0 grams trans fat
+Value: 11.4
+Unit: Ounce
+",1.97,18.0,14.0,1.0,True,False,False,False,False,False,True,63.75,328,59,76,4,True,2.517696472610991,1.0885619528146082,0.17280701754385963,food
+55858,"Judee's Blue Cheese Powder 11.25 oz - Gluten-Free and Nut-Free - Use in Seasonings and Salad Dressings - Great for Dips, Spreads and Sauces - Made in USA",Food,11.25,Ounce,https://m.media-amazon.com/images/I/41mu0HAToDL.jpg,../ocr_output/images/55858_41mu0HAToDL.jpg,"BLUE
+CHEESE
+POWDER
+
+11.25 02",87.16666666666667,5,success,"[500, 500]","Item Name: Judee’s Blue Cheese Powder 11.25 oz - Gluten-Free and Nut-Free - Use in Seasonings and Salad Dressings - Great for Dips, Spreads and Sauces - Made in USA
+Bullet Point 1: Add to your favorite appetizers, dips & spreads. Use to season popcorn or warmed pita chips.
+Bullet Point 2: Sprinkle over french fries, fried chicken, mashed potatoes, roasted veggies, pasta, and more
+Bullet Point 3: Made in a dedicated gluten-free facility and shipped in a standup, resealable pouch to ensure freshness
+Bullet Point 4: Ingredients: Blue Cheese (Milk, Salt, Cultures, & Enzymes) and Disodium Phosphate
+Bullet Point 5: Since 2009, Judee’s has been dedicated to providing fresh, allergy-conscious ingredients, great for your recipes and even better for your family
+Product Description: Judees Powdered Blue Cheese cheddar cheese powder is an alternative to mozzarella cheese shredded or american cheese slices deli. Make your own alfredo sauce with heavy cream and black buffalo dip with this powder. It adds extra flavor to salad dressing like ranch dressing and great on pizza dough or cauliflower pasta. Add to macaroni and cheese or popcorn seasoning for more aroma and cheesy feel. Combine with mustard and other ingredients to create your own dressing for buffalo chicken or buffalo wings.
+Value: 11.25
+Unit: Ounce
+",30.34,28.0,27.0,5.0,True,False,False,False,False,True,True,87.16666666666667,1318,211,153,4,True,2.505525936990736,3.444895236927875,2.6968888888888887,food
+292686,"kedem Sherry Cooking Wine, 12.7 Ounce - 12 per case",Food,12.0,Count,https://m.media-amazon.com/images/I/41sA037+QvL.jpg,../ocr_output/images/292686_41sA037+QvL.jpg,,0.0,0,success,"[1000, 1000]","Item Name: kedem Sherry Cooking Wine, 12.7 Ounce - 12 per case.
+Bullet Point: kedem Sherry Cooking Wine, 12.7 Ounce - 12 per case.
+Value: 12.0
+Unit: Count
+",66.49,,,,,,,,,,False,0.0,155,28,51,4,True,2.5649493574615367,4.211979438755315,5.540833333333333,food
+9259,Member,Food,6.25,ounce,https://m.media-amazon.com/images/I/81nw0HXpCRL.jpg,../ocr_output/images/9259_81nw0HXpCRL.jpg,,95.0,0,success,"[845, 2560]","Item Name: Member's Mark Member's Mark, Basil, 6.25 oz
+Bullet Point 1: Green Herb, Italian Staple, Great mixed with Oregano
+Bullet Point 2: Large Size, Chef Bottle
+Bullet Point 3: Packed in the USA
+Value: 6.25
+Unit: ounce
+",18.5,,,,,,,,,,False,0.0,222,38,6,4,True,1.9810014688665833,2.970414465569701,2.96,food
+191846,"Goya Foods Sazonador Total Seasoning, 30 Ounce (Pack of 6)",Food,180.0,Ounce,https://m.media-amazon.com/images/I/61dH2Ebkt0L.jpg,../ocr_output/images/191846_61dH2Ebkt0L.jpg,"s THE PERFEGT
+easoning THe ERFECT
+Bas 3
+
+@W
+
+EEEEEEE",71.3076923076923,10,success,"[1500, 1500]","Item Name: Goya Foods Sazonador Total Seasoning, 30 Ounce (Pack of 6)
+Bullet Point 1: SAZONADOR TOTAL | Enhance the natural flavors of food with the perfect mix of natural ingredients, Goya Sazonador Total. GOYA Sazonador Total adds super flavor in a flash. This versatile seasoning mix includes the perfect blend of Latino spices that makes your meal extra special. We’re sure you’ll love it.
+Bullet Point 2: THE PERFECT SEASONING | GOYA Sazonador Total is the perfect blend of garlic, onion and Latin spices that adds quick flavor to any meat, chicken, fish and vegetables. Just sprinkle over meats, poultry, seafood and vegetables before cooking. You can also use it to punch up the taste of salads, sauces, and soups. A simple shake is all it takes!
+Bullet Point 3: VERSATILE | This versatile seasoning mix includes the perfect blend of Latino spices that makes your meal extra special. We’re sure you’ll love it. GOYA Sazonador Total is the perfect blend of garlic, onion and Latin spices that adds quick flavor to any meat, chicken, fish and vegetables.
+Bullet Point 4: PREMIUM QUALITY | If it's Goya... it has to be good! | ¡Si es Goya... tiene que ser bueno!
+Bullet Point 5: PACK OF 6: 30 OZ BOTTLES | Discover Goya's incredible variety of seasonings on Amazon Fresh, Amazon Retail and Prime Pantry
+Value: 180.0
+Unit: Ounce
+",5.99,52.0,47.0,7.0,True,False,False,False,False,False,True,71.3076923076923,1332,229,58,4,True,5.198497031265826,1.944480556245719,0.03327777777777778,food
+222007,VineCo Original Series Chilean Sauvignon Blanc Wine Making Ingredient Kit,Food,1.0,Count,https://m.media-amazon.com/images/I/71JllaFpxML.jpg,../ocr_output/images/222007_71JllaFpxML.jpg,"b
+V
+O
+Z
+V
+<
+>
+Ll
+g
+=
+
+TROUSSE DE VINIFICATION
+
+U
+
+SEMAINES | makes/propuit 231 6Us gal",73.96,20,success,"[1536, 2200]","Item Name: VineCo Original Series Chilean Sauvignon Blanc Wine Making Ingredient Kit
+Bullet Point 1: Chilean Sauvignon Blanc Wine Kit - VineCo Original Series
+Bullet Point 2: Flavor Profile - Herbaceous, stone fruit and tropical fruit
+Bullet Point 3: Kit Volume: 8 L, Approximate Yield: 23 L
+Bullet Point 4: Ready to Bottle: In 4 weeks
+Bullet Point 5: Ingredient Kit Only Does Not Contain Alcohol
+Product Description: Chilean Sauvignon Blanc Wine Kit - VineCo Original Series - Unleash the Refreshing Essence of Sauvignon Blanc Known for its vibrant personality, Sauvignon Blanc is a green-skinned grape that embodies the wild spirit of nature. Its name is derived from the French term for ""wild,"" reflecting its unrestrained growth and bold flavors. This grape variety thrives in diverse climates, producing wines that range from crisp and herbaceous to tropical and fruity. In cooler regions, you can expect wines to showcase a lively acidity with green bell pepper and grassy notes, while warmer areas enhance the fruit profile, leading to delightful tropical flavors. Chilean Sauvignon Blanc is particularly celebrated for its citrusy brightness, moving away from the greener characteristics often associated with the grape. Instead, it highlights a luscious mix of stone fruits, passion fruit, and zesty lime, presenting a more refined take on this beloved varietal. The winemaking conditions in Chile, marked by a combination of warm days and cool evenings, allow for optimal ripening while retaining essential acidity. The VineCo Chilean Sauvignon Blanc captures the essence of this grape beautifully. It offers a lively bouquet of herbaceous notes intertwined with enticing flavors of stone fruit and tropical delights. This dry white wine is crafted without oak, maintaining its fresh character. This wine kit encourages you to enjoy the Sauvignon Blanc at its peak freshness. With no aging required, you can indulge in its crisp flavors shortly after bottling. Its versatility means it pairs wonderfully with a variety of dishes, making it a fantastic option for any meal, from light appetizers to vibrant salads and even sushi. Experience the joy of pairing this delightful wine with your culinary creations. Ingredient Kit Only Does Not Contain Alcohol.
+Value: 1.0
+Unit: Count
+",94.0,86.0,79.0,16.0,True,False,False,False,False,False,True,73.96,2289,358,73,4,True,0.6931471805599453,4.553876891600541,94.0,food
+37614,"NATURES PATH CEREAL FLK MULTIGRAIN ORG ECO, 32 OZ, PK- 6",Food,192.0,Fl Oz,https://m.media-amazon.com/images/I/21O9RftI2vL.jpg,../ocr_output/images/37614_21O9RftI2vL.jpg,,95.0,0,success,"[109, 145]","Item Name: NATURES PATH CEREAL FLK MULTIGRAIN ORG ECO, 32 OZ, PK- 6
+Value: 192.0
+Unit: Fl Oz
+",35.74,,,,,,,,,,False,0.0,93,18,56,4,True,5.262690188904886,3.6038660797869797,0.18614583333333334,food
+238044,Mrs. Miller's Seedless Black Raspberry Jam 9 Ounce (Pack of 4),Food,9.0,Ounce,https://m.media-amazon.com/images/I/41miQk+RkJL.jpg,../ocr_output/images/238044_41miQk+RkJL.jpg,"Back Raspoer Black. Kav‘r;u‘.“
+
+e o",42.142857142857146,6,success,"[500, 500]","Item Name: Mrs. Miller's Seedless Black Raspberry Jam 9 Ounce (Pack of 4)
+Bullet Point 1: Homemade Seedless Black Raspberry Jam made from the finest ripened black raspberries
+Bullet Point 2: Hand scooped in Ohio’s Amish Country
+Bullet Point 3: Made with real Cane Sugar
+Bullet Point 4: Spoon it onto your toast or biscuit, or use it as a tasty glaze on your pork or chicken
+Bullet Point 5: GMO Free
+Product Description: Made from the finest ripened black raspberries, Mrs. Miller's Homemade Seedless Black Raspberry Jam packs a delicious sweet taste. Black raspberries possess one of the richest flavors of all fruits, so it is no surprise that this flavor ranks at the top of everyone's list. Spoon it onto your toast or biscuit, or use it as a tasty glaze on your pork or chicken. Don't be surprised if you find yourself licking off the spoon with this one, or even just eating it right out of the jar. Hand scooped in Ohio's Amish Country. Ingredients: Pure Cane Sugar, Black Raspberries, Water, Pectin Lemon Juice, Citric Acid
+Value: 9.0
+Unit: Ounce
+",31.8,35.0,31.0,3.0,False,False,False,False,False,True,True,42.142857142857146,1054,184,62,4,True,2.302585092994046,3.4904285153900982,3.533333333333333,food

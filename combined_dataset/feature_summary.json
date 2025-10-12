@@ -1,0 +1,162 @@
+{
+  "dataset_info": {
+    "total_samples": 100,
+    "total_features": 34,
+    "missing_values": {
+      "sample_id": 0,
+      "item_name": 0,
+      "item_description": 0,
+      "item_quantity": 2,
+      "unit": 2,
+      "image_url": 0,
+      "image_path": 0,
+      "extracted_text": 0,
+      "confidence_score": 0,
+      "word_count": 0,
+      "status": 0,
+      "image_dimensions": 0,
+      "catalog_content": 0,
+      "price": 0,
+      "text_length": 30,
+      "char_count": 30,
+      "line_count": 30,
+      "has_numbers": 30,
+      "has_currency": 30,
+      "has_brand_keywords": 30,
+      "has_size_info": 30,
+      "has_material_info": 30,
+      "has_color_info": 30,
+      "has_extracted_text": 0,
+      "text_quality_score": 0,
+      "catalog_text_length": 0,
+      "catalog_word_count": 0,
+      "item_name_length": 0,
+      "item_description_length": 0,
+      "has_quantity": 0,
+      "quantity_log": 0,
+      "price_log": 0,
+      "price_per_unit": 2,
+      "category": 0
+    },
+    "data_types": {
+      "sample_id": "int64",
+      "item_name": "object",
+      "item_description": "object",
+      "item_quantity": "float64",
+      "unit": "object",
+      "image_url": "object",
+      "image_path": "object",
+      "extracted_text": "object",
+      "confidence_score": "float64",
+      "word_count": "int64",
+      "status": "object",
+      "image_dimensions": "object",
+      "catalog_content": "object",
+      "price": "float64",
+      "text_length": "float64",
+      "char_count": "float64",
+      "line_count": "float64",
+      "has_numbers": "object",
+      "has_currency": "object",
+      "has_brand_keywords": "object",
+      "has_size_info": "object",
+      "has_material_info": "object",
+      "has_color_info": "object",
+      "has_extracted_text": "bool",
+      "text_quality_score": "float64",
+      "catalog_text_length": "int64",
+      "catalog_word_count": "int64",
+      "item_name_length": "int64",
+      "item_description_length": "int64",
+      "has_quantity": "bool",
+      "quantity_log": "float64",
+      "price_log": "float64",
+      "price_per_unit": "float64",
+      "category": "object"
+    }
+  },
+  "feature_categories": {
+    "basic_info": [
+      "sample_id",
+      "item_name",
+      "item_description",
+      "item_quantity",
+      "unit",
+      "price"
+    ],
+    "catalog_features": [
+      "catalog_content",
+      "catalog_text_length",
+      "catalog_word_count"
+    ],
+    "ocr_features": [
+      "extracted_text",
+      "confidence_score",
+      "word_count",
+      "has_extracted_text",
+      "text_quality_score"
+    ],
+    "text_features": [
+      "text_length",
+      "char_count",
+      "line_count",
+      "has_numbers",
+      "has_currency",
+      "has_brand_keywords",
+      "has_size_info",
+      "has_material_info",
+      "has_color_info"
+    ],
+    "engineered_features": [
+      "item_name_length",
+      "item_description_length",
+      "has_quantity",
+      "quantity_log",
+      "price_log",
+      "price_per_unit",
+      "category"
+    ]
+  },
+  "statistics": {
+    "price_stats": {
+      "count": 100.0,
+      "mean": 29.300949999999997,
+      "std": 41.15198995332652,
+      "min": 0.94,
+      "25%": 7.53625,
+      "50%": 17.042499999999997,
+      "75%": 32.190000000000005,
+      "max": 298.0
+    },
+    "confidence_stats": {
+      "count": 100.0,
+      "mean": 76.74892234151936,
+      "std": 18.548982679560694,
+      "min": 0.0,
+      "25%": 67.02696078431373,
+      "50%": 79.06481481481481,
+      "75%": 95.0,
+      "max": 95.0
+    },
+    "word_count_stats": {
+      "count": 100.0,
+      "mean": 15.84,
+      "std": 37.23599865667089,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 5.0,
+      "75%": 13.0,
+      "max": 238.0
+    },
+    "text_length_stats": {
+      "count": 70.0,
+      "mean": 123.98571428571428,
+      "std": 233.98510375335417,
+      "min": 3.0,
+      "25%": 29.5,
+      "50%": 52.5,
+      "75%": 98.0,
+      "max": 1230.0
+    }
+  }
+}
