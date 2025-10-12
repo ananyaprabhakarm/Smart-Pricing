@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# OCR Pipeline Setup Script
-# This script sets up the environment for running the OCR pipeline
+# Image Preprocessing Pipeline Setup Script
+# This script sets up the environment for running the image preprocessing pipeline
 
-echo "Setting up OCR Pipeline for ML Challenge 2025..."
+echo "Setting up Image Preprocessing Pipeline for ML Challenge 2025..."
 
 # Check if Python 3 is installed
 if ! command -v python3 &> /dev/null; then
