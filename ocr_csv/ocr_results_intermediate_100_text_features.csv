@@ -1,0 +1,796 @@
+sample_id,price,extracted_text,text_length,word_count,confidence_score,char_count,line_count,has_numbers,has_currency,has_brand_keywords,has_size_info,has_material_info,has_color_info
+261251,1.97,Cickan s Wi hewe 9,18,5,63.75,14,1,True,False,False,False,False,False
+55858,30.34,"BLUE
+CHEESE
+POWDER
+
+11.25 02",28,5,87.16666666666667,27,5,True,False,False,False,False,True
+191846,5.99,"s THE PERFEGT
+easoning THe ERFECT
+Bas 3
+
+@W
+
+EEEEEEE",52,10,71.3076923076923,47,7,True,False,False,False,False,False
+222007,94.0,"b
+V
+O
+Z
+V
+<
+>
+Ll
+g
+=
+
+TROUSSE DE VINIFICATION
+
+U
+
+SEMAINES | makes/propuit 231 6Us gal",86,20,73.96,79,16,True,False,False,False,False,False
+238044,31.8,"Back Raspoer Black. Kav‘r;u‘.“
+
+e o",35,6,42.142857142857146,31,3,False,False,False,False,False,True
+21740,6.98,". COOKIE
+% DOUGH .~
+
+Sy Yo
+
+P
+
+NETWT. 1.5",41,10,54.44444444444444,36,8,True,False,False,False,False,False
+170292,4.255,"ST
+NATURAL
+
+N",13,3,36.0,13,4,False,False,False,False,False,False
+71500,1.67,"[
+m—
+
+LOW CALORIE ] LOW CALORIE
+ZERO SUGAR ZERO SUGAR
+ADDED ‘ ADDED
+
+[ — gy
+
+LOW CALORIE
+ZERO SUGAR
+ADDED
+
+LYTE
+
+'''''''
+
+y Banana
+
+BODYARMOR
+
+(828mL) Bottles
+
+)
+Strawberr",171,31,86.89795918367346,156,25,True,False,False,False,False,False
+266475,81.44,"ORGANIC
+APPLE
+CIDER
+
+VINEGAR",28,4,92.4,28,5,False,False,False,False,False,False
+88520,56.72,"THIS SALT DOES NOT SUPPLY
+
+B (ODIDE, ANECESSARY NUTRIENT. NETWT 10 0Z (283g) E'",79,14,72.5625,67,3,True,False,False,False,False,False
+125583,5.47,"SINCE 1908
+
+BUSH'S
+
+=
+
+Bar becae
+
+_—
+BAKED BEANS
+
+’/r ‘h&
+p - > |
+
+—
+e~
+s-\",75,18,71.5,68,17,True,False,False,False,False,False
+271423,109.97,"xBIIlI(
+SUPPLEMENTS cow’
+
+TREHALOSE
+POWDER
+
+1000
+
+5g 5kg
+PER SERVING WEIGHT SERVINGS",84,12,88.0,79,10,True,False,False,False,False,False
+260842,50.99,"gd]lll
+
+HERBAL TEA SUPPLEMENT
+
+ALL DAY CHAGA
+
+ALL NATURAL WILD HARVESTED
+90 TABLETS",83,13,91.15,75,8,True,False,False,False,False,False
+201749,32.09,"i~i=i=l=10=if 1@®
+
+CHOCOLATE
+CARAMEL PECAN",42,5,71.71428571428571,40,4,True,False,False,False,False,False
+194856,12.32,"UNSALTED
+
+Zno
+=
+=
+
+SEE NUTRITION
+INFORMATION
+FOR FAT CONTENT
+
+Q""%""’RO 7'5/4’
+
+PER SERVING 8% DV
+PLANT-BASED
+PROTEIN
+
+ENLARGED TO
+SHOW DETAIL",140,22,82.43478260869566,131,18,True,False,False,False,False,False
+234305,16.395,Ichio/Man,9,1,49.5,9,1,False,False,False,False,False,False
+154376,17.095,"NO ARTIFICIAL COLORS OR FLAVORS
+NO PRESERVATIVES
+
+NETWT 4OZ (397",64,10,73.81818181818181,57,4,True,False,False,True,False,True
+116291,20.61,"NO artificial 0 NO amﬁc:al WITH
+
+sweeteners
+natural s
+
+flavors
+
+Wored drink miy Dol
+b st mreoararb",98,17,69.5,87,9,True,False,False,False,False,True
+234372,1.58,"La
+
+Coste
+
+®
+
+1E)",17,4,91.5,17,7,True,False,False,False,False,False
+116974,19.845,"COLOUR
+MILL
+
+Navy
+% OILBLEND",28,5,70.0,27,5,False,False,False,True,False,True
+248217,12.78,"GROUND
+
+SAGE
+
+Ingredients: sage
+
+(powder).
+Sold by weight not by
+volume
+
+g",74,12,81.23076923076923,69,11,False,False,False,False,False,True
+7575,30.78,"ZERO
+Ll
+
+PROTEIN
+
+4339
+@34-SSvd9",32,5,68.66666666666667,32,7,True,False,False,False,False,False
+109029,12.85,"BLACK BEANS
+
+TR
+[NETWEIGHT1 LBT(454)]",37,5,53.5,35,4,True,False,False,True,False,True
+38571,9.27,"~0RGANIC =
+
+L' GREEN lENTIl",27,5,82.42857142857143,24,3,True,False,False,False,False,True
+56340,29.96,",‘ | b4 a .‘f‘ri
+) « | 3 TWT 15502143 gj .",42,13,72.04347826086956,31,2,True,False,False,False,False,False
+196576,124.52,"Buchu Leaf
+(Organic) Tea
+
+40z (Loose) ii",40,7,79.0,36,4,True,False,False,False,False,False
+274881,16.99,"DARK -
+CAFFE VERONA'
+
+O el
+
+) eaoune Comee
+
+.
+-
+b8
+-",52,13,64.53846153846153,47,11,True,False,False,False,False,False
+95469,12.23,"BREAKFAST
+
+BLEND
+
+@MWW
+Z S
+NN\
+
+N
+=
+—
+—=
+
+“Bright, smooth flavor with
+
+notes of honey and hazelnut”
+
+MEDIUM ROAST
+
+12- 038 0Z(10Tol/EANETWI &5 07 (1289
+
+BREAKFAST
+
+BLEND
+MEDIUM
+ROAST COFFEE
+o
+\\\\s\
+
+/&
+%, %
+
+Yy Y07 Reyoy 1O
+H0r g g R",234,45,65.17777777777778,212,34,True,False,False,False,False,False
+255445,6.99,"FRARCE
+CISCOS
+
+C
+OFFEE
+
+g
+
+100 100°
+
+. %
+
+SOU (Il)(A)RI‘:?)CA
+REMI%BIA |
+
+i
+
+Qleur
+grind NETW
+3 11",98,19,66.41666666666667,92,20,True,False,False,False,False,False
+59900,11.98,"Organic
+Coconut Milk
+_Powder",28,4,78.4,27,3,False,False,False,False,False,False
+61692,29.94,"Il
+‘ Swae+
+
+Plckled Garhc
+
+NETWT 140Z (3979)
+
+NEER\EN & 59
+
+A SAURN
+
+H
+
+, 1)
+
+Sweet
+
+“Pickled Garli¢ *
+
+NETWT 14 0Z (3979)
+
+R LEL L EEE\
+
+ENE",141,29,65.81818181818181,125,24,True,False,False,False,False,False
+56211,7.56,"ALMOND FLoy, JLMOND FLoy,
+
+Rosemary & Sea Sa fossg il semary & Sea Salt
+
+Nostinry & ool
+
+B mes Pack — -",103,22,54.578947368421055,85,7,False,False,False,False,False,False
+140715,34.57,"EQUATOR
+COFFEES
+
+BLEND
+
+Equator Blend
+
+we bellee
+
+00D COFFEE
+made &Y
+anp PEOPE
+i
+TAsTING Noes =""
+CEDAR, ApRICOT, NUTMEG EE'YEH
+
+ROAST Leve,
+MEDIUM DARK
+
+105 02 (2976, COFFEE",173,29,61.81481481481482,158,20,True,False,False,False,False,False
+186165,2.54,"* CERTIFIED «
+
+\WILD CAUGH .
+
+8 SUSTAINAB &
+
+\
+
+-
+
+Ef =
+{== BRAND ) __4
+—‘\ | 1700mg OMEGA-3 FATTY ACIDS
+
+= NET WT. 4.25 0Z. (120g)",131,29,67.1470588235294,111,15,True,False,True,False,False,False
+272258,4.42,"- —
+=3
+
+Cood Source i\\
+of Vitanins
+inerals
+
+412 FL 0Z BOTTLES (48 FL 0Z) 4-355 mL BOTTLES (1.4 L)",98,21,73.625,83,8,True,False,False,False,False,False
+191961,0.94,"o
+|
+
+i
+&‘\
+4
+;:)
+
+1§ ] UZ
+n )",29,11,64.3125,26,10,True,False,False,False,False,False
+245797,6.69,"OUTBACK
+
+. POTATO CHIPS
+
+CERTIFIED
+
+“iora
+
+(U) NETWT. 5.5 0z (156g)",67,11,85.18181818181819,61,9,True,False,False,False,False,False
+278964,30.475,"Made with Carbalose® flour
+
+to fit your healthy low-carb lifestyle.
+
+carbquik,com
+
+q- No Sugar Alcoh©'®
+ix
+
+& Nut Free
+
+Net Wt. 3Ib (480z) (1.36kg)",147,24,76.875,130,12,True,False,False,False,False,False
+133751,34.925,"New Orleans-Style
+
+ICED COFFEE
+
+CONCENTRATE
+
+New Orleans-Style
+
+ICED COFFEE
+
+CONCENTRATE
+
+4 BAGS + NET WT 8 OZ (2279)",117,18,85.47368421052632,106,13,True,False,False,True,False,False
+188740,2.99,"LAOE ~IR§V/
+
+ARTIFICIAL FLAVOR
+
+CKETS/NETWTOB0(28) @
+
+""U.U0 UL\L
+
+J U",69,10,79.2,64,9,True,False,False,False,False,False
+147811,57.7,"Nutrition acts
+
+50 servings per container
+s 1 tea bag
+
+Amount per serving 0
+
+Calories
+
+Total Fat
+Saluraled Fal Og
+Trans Fat 0g
+
+Dietary Fiber Omg
+Total Sugars 0
+includes Og Added Sugars
+Protein 0g
+
+Vit D Omog 0% Calcium Omg 0%
+iron Omg 0% Potas_0mg 0%
+T % Daly Vakso (1) (o you row mech et
+
+FREFFFREF
+
+Zabaglione
+Strawberry
+
+Pu-erh Tea
+50 tea bags
+
+=i D e =
+
+Ingredients: Pu-erh Tea, Strawberries (Dried), Strawberry Leaf, Natural
+Flavors.
+
+Directions:
+
+Hot tea: Bring freshly drawn cold water to a rolling boil. Place 1 teabag for each desired
+
+cup into the teapot. Pour the boiling water into the pot, cover and let steep for 2-4
+
+minutes. Pour into your cup; add milk and natural sweeteners to taste.
+
+Iced Tea: (makes 1 qt/1L): Place 5 teabags into a teapot or heat resistant pitcher. Pour 1
+1/4 cups of freshly boiled water over the teabags. Steep for 5 minutes. Quarter fill a
+serving pitcher with cold water. Pour the tea into the serving pitcher. Add ice and top-up
+with cold water. Garnish and sweeten to taste.
+
+Herbicide / Pesticide Free
+
+,_\CG\‘J/L
+
+(A
+
+0 64435 35909 6
+
+TERRAW I TA®
+Fine Whole Herbs
+
+Distributed by / Distributé par
+ZooScape Corporation
+(844)449-0444-ZooScape.com
+
+PO Box 10124, Wilmington, DE, 19850",1230,212,82.33333333333333,1059,64,True,False,False,False,False,True
+260170,17.634999999999998,"L)
+
+-
+
+‘gﬂFooJ tolive
+gere—t)
+- Health",38,7,67.77777777777777,36,7,False,False,False,False,False,False
+65474,63.99,"Organic Maple
+Sugar",19,3,93.5,18,2,False,False,False,False,False,False
+25549,12.795000000000002,"£ 2501 servingS OF VESETBIS )\
+Per Can*",39,8,69.875,33,2,True,True,False,False,False,False
+210101,29.99,"%
+
+rrrTE
+
+FLAVOR WITH NATURAL FLAVORS
+
+e CHOCOLATEY COATIN
+
+s
+
+'&",65,11,67.36363636363636,60,11,False,False,False,False,False,False
+22348,17.49,"AUTHENTIC
+
+INSTANT WET MARINADE",31,4,92.8,29,3,False,False,False,False,False,False
+69365,79.99,"Q 420
+‘\\lutele
+E
+bSOE T
+a GLUT
+\\Q/// ' /
+1 |ut9.Y-
+___— g a?LSU(T)EN FREE
+o, i '
+/
+/ lute]y
+q/ ’ tG)LSU(T)EN o
+‘\iuteb.'""
+a0
+
+£
+FRE
+TEN
+
+oLy
+
+=
+RAI NkFeRPS
+G
+
+aAC
+cr
+
+L
+RIGINA
+o
+
+eal
+
+a
+o -
+
+eSS oV .
+
+o A o8
+wdg_\‘ ;
+
+ED
+1E
+RTI
+
+cEl
+
+'”“”""%"".umm’%“?
+mctuml;'smwsllns wmcH
+Fﬂm WJs
+Wm
+
+mmm&smﬂn.
+
+I ( I
+AuEx mm""m{nmms
+IIEAC YMMID
+
+MIEKH
+
+Ei
+
+ity
+TM""ESSIAIN
+
+WJH)HIIM
+FO
+g",371,79,58.18666666666667,343,69,True,True,False,True,False,False
+43008,11.1,120PIECES,9,1,64.5,9,1,True,False,False,False,False,False
+182264,7.99,"2 i SN Y 4 Enjoy lhe softhess of \%enﬂe breeze :
+that sweeps through the vineyard "" i el i i 0 _ . that sweeps through the vineyard
+_spread uasl on the hill ineachisoft 2 2 9 ‘. .spread yast on the hill in.each soft
+
+T fyCat T i and juicy Ka ape. Gum&uCahdy
+
+T GRAPE. GUMN CANDY ¢ v GRAPE GUM
+
+/ Enjoy the softhess of 2 4 1 o Emoy the softhess of € Sy Z Enjoy the softhess o} €
+that sweeps through i b oA '_ o . #% . thatsweepsthrough e b | ¥ . that'sweeps through th
+_spread yast on the hi 2 ¢ - spread vast on the hill in each sof 5 “spread yast on the.hill ineachisoft
+and juicy Kasugaj Grape Gum&uCahdy > P 7 £ -y jui Sugaj Q hdy. Y A 7 and juicy Kas! 2 Gumg\y\Cahdy
+
+NETV 3
+: APE GUMMX ~ANDY
+A GR; ,
+' Enjoy the softhess of tl { i o A : ! )\
+that sweeps through f 0 SRR e i R % . that'sweeps throug
+
+spread yast.on the hill in eachisoft % ""spread yast.on the hill in,each soft ® spread yast.on the hill in;eachsoft
+
+i at and juicy Kas 'Grane GumTyCahdy ; 5 : T Kasu.ga uEGhmgguc‘ahdy.
+g 3 ) 2 <, b
+
+mrapUcfor sl AT e PRQDUC%FJAPAN
+NETWT,, 37701, (I g SR METWT 87 . TS ue‘rwuﬂwoz (107g)""",1091,238,54.46818181818182,872,26,True,True,False,True,False,False
+35395,1.755,"anes! Shaped Pasta with
+
+Chickenfin Chicken Broth NET'WI: @lﬁom%g |
+
+ki",71,11,70.23076923076923,63,5,False,False,False,False,False,False
+201717,19.725,"TH| 3
+
+POWERED s‘/",18,4,73.6,16,3,True,False,False,False,False,True
+239169,15.74,"Visitusat
+FoodToLive.com",24,2,75.66666666666667,24,2,False,False,False,False,False,False
+240701,33.56,"100% JUICE
+Nutrition Facts
+
+About 38 servings per container
+Serving size 8 FL 0Z (240 mL)
+| =SSt |
+
+Distributed by:
+
+Costco Wholesale Corporation
+999 Lake Drive
+
+Issaquah, WA 98027 USA
+
+www.costco.com
+Certified Organic by ECOCERT SA
+
+PRODUCT OF THE PHILIPPINES @@
+
+BOX CARTON
+
+Amount per_serving
+Calories 30
+
+% Daily Value*
+Total Fat Og 0%
+Saturated Fat 0g 0%
+
+ojurajohoaigmoy
+
+Trans Fat Og
+Cholesterol 0mg 0%
+Sodium 60mg 3% i’k Lot/ Best Before:
+Total Carbohydrate 8g 3%
+
+Dietary Fiber 0g 0%
+
+Total Sugars 59
+Includes 0g Added Sugars 0%
+Protein Og
+
+Vitamin D Omcg 0%
+Calcium 29mg 2%
+Iron Omg 0%
+Potassium 470mg 10%
+Phosphorus 24mg 2%
+Magnesium 24mg 6%
+
+*The % Daily Value (DV) tells you how much a nutrient
+in'a senving of food contributes to a daily diet, 2,000
+calories a day is used for general nutrition advice.
+
+INGREDIENTS: Organic Coconut
+Water.
+
+CONTAINS: Coconut.
+
+ITM. / ART. 1495250
+
+KIRKLAND ‘
+
+966 654
+
+If you're not completely satisfied with this Kirkland
+Signature product, your money will be refunded.",1018,169,86.72685185185185,893,65,True,False,False,True,False,True
+172422,16.99,"Al
+| LUPIN| BEANS|",18,4,49.8,16,2,False,False,False,False,False,False
+166878,4.99,"Bruschettini
+
+Snack Size hafian Bruschera Toass",47,6,65.16666666666667,43,3,False,False,False,True,False,False
+31920,14.61,"""> RESEALABLER
+
+AR \\m
+
+=oREe
+NETWT 07 g5 ‘s’eEF,Eg .",53,10,66.66666666666667,47,6,True,False,False,False,False,False
+247546,17.99,"g
+<",3,2,81.0,3,2,False,False,False,False,False,False
+218503,7.465,"PASSOVER APPROVED
+
+X OF /
+07
+
+> )
+Ya N
+
+SN\
+
+o
+THI SALT pogs
+
+X NETWT 3 LBS (48 02) 1.36ke",90,22,60.30434782608695,77,14,True,False,False,True,False,False
+86106,32.49,"compare to the
+
+active ingredient in
+Nicorette®* Gum®",53,8,80.0909090909091,48,4,False,False,False,False,False,True
+115306,14.99,"QUALIN/HERBSI&NTEAS
+
+= 2/'(—.""‘
+
+A
+
+-
+
+HOJA DE AGUACATE
+A (Avocado Leaves)
+gy S, Sk 3/8 OZ (10.6 G.)",100,18,73.52631578947368,89,11,True,False,False,True,False,False
+182492,4.890000000000001,"Wetson s |
+
+Near Zero",21,5,80.0,18,3,False,False,False,False,False,False
+3294,213.26,"o
+- L (5]
+
+;‘U““‘Jr{‘fﬁ‘..
+
+AT 1507458
+e",40,8,45.55555555555556,37,7,True,False,False,False,False,False
+181347,11.135,"CONTINUOUS SPRAY SUNSCREEN
+wirv @
+
+T e &
+| \q CA Q
+
+MOISTURIZING FORMULA
+COCONUT & ARGAN 0ILS
+WATER RESISTANT (80 MINUTES)
+
+NETWT 6 0Z. (170 )",142,27,68.85185185185185,123,11,True,False,False,False,False,False
+159362,33.29,KIRKLAND,8,1,93.0,8,1,False,False,False,False,False,False
+273689,21.36,"PURE
+Maple Sugar
+BN Natural Alternative
+to Cane Sugar
+=l A",58,11,72.72727272727273,52,5,False,False,False,False,False,False
+51564,45.27,"TAZA CHOCOLATE
+
+DARK'BARK
+
+80% DARK CHOCOLATE THINS
+Sea Salt & Amond
+
+USDA
+
+TAZA CHOCOLATE
+NDYK ROD
+DARKCBARK
+
+e
+_Spm
+TAZA CHOCOLATE
+
+80% DARK 076413 CHOCOLATE THINS
+Joasted Coconut
+
+TAZA CHOCOLATE
+
+UARK BARK
+
+80% DARK CHOCOLATE THINS
+
+Coconut AMmand",250,38,77.23809523809524,229,27,True,False,False,True,False,False
+81259,5.49,"Enlargedto
+Show Detal
+
+IT 1202 (3400) ©",39,7,61.4,35,4,True,False,False,False,False,False
+131791,2.29,"ORIGINAL
+Al
+
+LINKS L
+
+o L) g AR",31,8,58.5,27,6,False,False,False,False,False,False
+228657,30.37,"‘\-»/- ’
+Cola
+W.S. EXTRACT #1209
+
+4FLOZ (118 mL)",48,9,79.72727272727273,43,5,True,False,False,True,False,False
+17024,4.79,"Nutrition Facts
+
+about 75 servings per container
+Serving size 12 pieces (30g)
+j——————————————
+
+Amount per serving
+
+Calories 110
+
+Total Fat 0g 0%
+
+Sodium 25mg 1%
+
+Total Carbohydrate 27g 10%
+Total Sugars 23g
+
+Includes 23g Added Sugars ~ 46%
+Protein 0g
+
+ea—————————""]
+Nota signifcant source of saturated fa, ans fa, cholestero,
+
+ditary fder, vitamin O, calcium, ron, and potassium.
+INGREDIENTS: SUGAR, INVERT SUGAR, CORN SYRUP. MODIFIED
+'CORN STARCH, CONTAINS LESS THAN 2% OF TARTARIC ACID,
+CITRICACID, NATURAL AND ARTIFICIAL FLAVOR, BLUE 1.
+DISTRIBUTED BY
+'MONDELEZ GLOBALLLC
+EAST HANOVER, NJ 07936
+MADE IN CANAI
+©Mondeléz Intemational group
+(QUESTIONS? CALL 1-800-524-2854
+www.sourpatchkids.com
+
+USA
+
+STORE INACOOL, DRY PLACE",724,104,79.12962962962963,647,38,True,False,False,True,False,True

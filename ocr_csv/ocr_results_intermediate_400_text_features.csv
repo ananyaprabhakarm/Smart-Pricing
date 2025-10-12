@@ -1,0 +1,3412 @@
+sample_id,price,extracted_text,text_length,word_count,confidence_score,char_count,line_count,has_numbers,has_currency,has_brand_keywords,has_size_info,has_material_info,has_color_info
+261251,1.97,Cickan s Wi hewe 9,18,5,63.75,14,1,True,False,False,False,False,False
+55858,30.34,"BLUE
+CHEESE
+POWDER
+
+11.25 02",28,5,87.16666666666667,27,5,True,False,False,False,False,True
+191846,5.99,"s THE PERFEGT
+easoning THe ERFECT
+Bas 3
+
+@W
+
+EEEEEEE",52,10,71.3076923076923,47,7,True,False,False,False,False,False
+222007,94.0,"b
+V
+O
+Z
+V
+<
+>
+Ll
+g
+=
+
+TROUSSE DE VINIFICATION
+
+U
+
+SEMAINES | makes/propuit 231 6Us gal",86,20,73.96,79,16,True,False,False,False,False,False
+238044,31.8,"Back Raspoer Black. Kav‘r;u‘.“
+
+e o",35,6,42.142857142857146,31,3,False,False,False,False,False,True
+21740,6.98,". COOKIE
+% DOUGH .~
+
+Sy Yo
+
+P
+
+NETWT. 1.5",41,10,54.44444444444444,36,8,True,False,False,False,False,False
+170292,4.255,"ST
+NATURAL
+
+N",13,3,36.0,13,4,False,False,False,False,False,False
+71500,1.67,"[
+m—
+
+LOW CALORIE ] LOW CALORIE
+ZERO SUGAR ZERO SUGAR
+ADDED ‘ ADDED
+
+[ — gy
+
+LOW CALORIE
+ZERO SUGAR
+ADDED
+
+LYTE
+
+'''''''
+
+y Banana
+
+BODYARMOR
+
+(828mL) Bottles
+
+)
+Strawberr",171,31,86.89795918367346,156,25,True,False,False,False,False,False
+266475,81.44,"ORGANIC
+APPLE
+CIDER
+
+VINEGAR",28,4,92.4,28,5,False,False,False,False,False,False
+88520,56.72,"THIS SALT DOES NOT SUPPLY
+
+B (ODIDE, ANECESSARY NUTRIENT. NETWT 10 0Z (283g) E'",79,14,72.5625,67,3,True,False,False,False,False,False
+125583,5.47,"SINCE 1908
+
+BUSH'S
+
+=
+
+Bar becae
+
+_—
+BAKED BEANS
+
+’/r ‘h&
+p - > |
+
+—
+e~
+s-\",75,18,71.5,68,17,True,False,False,False,False,False
+271423,109.97,"xBIIlI(
+SUPPLEMENTS cow’
+
+TREHALOSE
+POWDER
+
+1000
+
+5g 5kg
+PER SERVING WEIGHT SERVINGS",84,12,88.0,79,10,True,False,False,False,False,False
+260842,50.99,"gd]lll
+
+HERBAL TEA SUPPLEMENT
+
+ALL DAY CHAGA
+
+ALL NATURAL WILD HARVESTED
+90 TABLETS",83,13,91.15,75,8,True,False,False,False,False,False
+201749,32.09,"i~i=i=l=10=if 1@®
+
+CHOCOLATE
+CARAMEL PECAN",42,5,71.71428571428571,40,4,True,False,False,False,False,False
+194856,12.32,"UNSALTED
+
+Zno
+=
+=
+
+SEE NUTRITION
+INFORMATION
+FOR FAT CONTENT
+
+Q""%""’RO 7'5/4’
+
+PER SERVING 8% DV
+PLANT-BASED
+PROTEIN
+
+ENLARGED TO
+SHOW DETAIL",140,22,82.43478260869566,131,18,True,False,False,False,False,False
+234305,16.395,Ichio/Man,9,1,49.5,9,1,False,False,False,False,False,False
+154376,17.095,"NO ARTIFICIAL COLORS OR FLAVORS
+NO PRESERVATIVES
+
+NETWT 4OZ (397",64,10,73.81818181818181,57,4,True,False,False,True,False,True
+116291,20.61,"NO artificial 0 NO amﬁc:al WITH
+
+sweeteners
+natural s
+
+flavors
+
+Wored drink miy Dol
+b st mreoararb",98,17,69.5,87,9,True,False,False,False,False,True
+234372,1.58,"La
+
+Coste
+
+®
+
+1E)",17,4,91.5,17,7,True,False,False,False,False,False
+116974,19.845,"COLOUR
+MILL
+
+Navy
+% OILBLEND",28,5,70.0,27,5,False,False,False,True,False,True
+248217,12.78,"GROUND
+
+SAGE
+
+Ingredients: sage
+
+(powder).
+Sold by weight not by
+volume
+
+g",74,12,81.23076923076923,69,11,False,False,False,False,False,True
+7575,30.78,"ZERO
+Ll
+
+PROTEIN
+
+4339
+@34-SSvd9",32,5,68.66666666666667,32,7,True,False,False,False,False,False
+109029,12.85,"BLACK BEANS
+
+TR
+[NETWEIGHT1 LBT(454)]",37,5,53.5,35,4,True,False,False,True,False,True
+38571,9.27,"~0RGANIC =
+
+L' GREEN lENTIl",27,5,82.42857142857143,24,3,True,False,False,False,False,True
+56340,29.96,",‘ | b4 a .‘f‘ri
+) « | 3 TWT 15502143 gj .",42,13,72.04347826086956,31,2,True,False,False,False,False,False
+196576,124.52,"Buchu Leaf
+(Organic) Tea
+
+40z (Loose) ii",40,7,79.0,36,4,True,False,False,False,False,False
+274881,16.99,"DARK -
+CAFFE VERONA'
+
+O el
+
+) eaoune Comee
+
+.
+-
+b8
+-",52,13,64.53846153846153,47,11,True,False,False,False,False,False
+95469,12.23,"BREAKFAST
+
+BLEND
+
+@MWW
+Z S
+NN\
+
+N
+=
+—
+—=
+
+“Bright, smooth flavor with
+
+notes of honey and hazelnut”
+
+MEDIUM ROAST
+
+12- 038 0Z(10Tol/EANETWI &5 07 (1289
+
+BREAKFAST
+
+BLEND
+MEDIUM
+ROAST COFFEE
+o
+\\\\s\
+
+/&
+%, %
+
+Yy Y07 Reyoy 1O
+H0r g g R",234,45,65.17777777777778,212,34,True,False,False,False,False,False
+255445,6.99,"FRARCE
+CISCOS
+
+C
+OFFEE
+
+g
+
+100 100°
+
+. %
+
+SOU (Il)(A)RI‘:?)CA
+REMI%BIA |
+
+i
+
+Qleur
+grind NETW
+3 11",98,19,66.41666666666667,92,20,True,False,False,False,False,False
+59900,11.98,"Organic
+Coconut Milk
+_Powder",28,4,78.4,27,3,False,False,False,False,False,False
+61692,29.94,"Il
+‘ Swae+
+
+Plckled Garhc
+
+NETWT 140Z (3979)
+
+NEER\EN & 59
+
+A SAURN
+
+H
+
+, 1)
+
+Sweet
+
+“Pickled Garli¢ *
+
+NETWT 14 0Z (3979)
+
+R LEL L EEE\
+
+ENE",141,29,65.81818181818181,125,24,True,False,False,False,False,False
+56211,7.56,"ALMOND FLoy, JLMOND FLoy,
+
+Rosemary & Sea Sa fossg il semary & Sea Salt
+
+Nostinry & ool
+
+B mes Pack — -",103,22,54.578947368421055,85,7,False,False,False,False,False,False
+140715,34.57,"EQUATOR
+COFFEES
+
+BLEND
+
+Equator Blend
+
+we bellee
+
+00D COFFEE
+made &Y
+anp PEOPE
+i
+TAsTING Noes =""
+CEDAR, ApRICOT, NUTMEG EE'YEH
+
+ROAST Leve,
+MEDIUM DARK
+
+105 02 (2976, COFFEE",173,29,61.81481481481482,158,20,True,False,False,False,False,False
+186165,2.54,"* CERTIFIED «
+
+\WILD CAUGH .
+
+8 SUSTAINAB &
+
+\
+
+-
+
+Ef =
+{== BRAND ) __4
+—‘\ | 1700mg OMEGA-3 FATTY ACIDS
+
+= NET WT. 4.25 0Z. (120g)",131,29,67.1470588235294,111,15,True,False,True,False,False,False
+272258,4.42,"- —
+=3
+
+Cood Source i\\
+of Vitanins
+inerals
+
+412 FL 0Z BOTTLES (48 FL 0Z) 4-355 mL BOTTLES (1.4 L)",98,21,73.625,83,8,True,False,False,False,False,False
+191961,0.94,"o
+|
+
+i
+&‘\
+4
+;:)
+
+1§ ] UZ
+n )",29,11,64.3125,26,10,True,False,False,False,False,False
+245797,6.69,"OUTBACK
+
+. POTATO CHIPS
+
+CERTIFIED
+
+“iora
+
+(U) NETWT. 5.5 0z (156g)",67,11,85.18181818181819,61,9,True,False,False,False,False,False
+278964,30.475,"Made with Carbalose® flour
+
+to fit your healthy low-carb lifestyle.
+
+carbquik,com
+
+q- No Sugar Alcoh©'®
+ix
+
+& Nut Free
+
+Net Wt. 3Ib (480z) (1.36kg)",147,24,76.875,130,12,True,False,False,False,False,False
+133751,34.925,"New Orleans-Style
+
+ICED COFFEE
+
+CONCENTRATE
+
+New Orleans-Style
+
+ICED COFFEE
+
+CONCENTRATE
+
+4 BAGS + NET WT 8 OZ (2279)",117,18,85.47368421052632,106,13,True,False,False,True,False,False
+188740,2.99,"LAOE ~IR§V/
+
+ARTIFICIAL FLAVOR
+
+CKETS/NETWTOB0(28) @
+
+""U.U0 UL\L
+
+J U",69,10,79.2,64,9,True,False,False,False,False,False
+147811,57.7,"Nutrition acts
+
+50 servings per container
+s 1 tea bag
+
+Amount per serving 0
+
+Calories
+
+Total Fat
+Saluraled Fal Og
+Trans Fat 0g
+
+Dietary Fiber Omg
+Total Sugars 0
+includes Og Added Sugars
+Protein 0g
+
+Vit D Omog 0% Calcium Omg 0%
+iron Omg 0% Potas_0mg 0%
+T % Daly Vakso (1) (o you row mech et
+
+FREFFFREF
+
+Zabaglione
+Strawberry
+
+Pu-erh Tea
+50 tea bags
+
+=i D e =
+
+Ingredients: Pu-erh Tea, Strawberries (Dried), Strawberry Leaf, Natural
+Flavors.
+
+Directions:
+
+Hot tea: Bring freshly drawn cold water to a rolling boil. Place 1 teabag for each desired
+
+cup into the teapot. Pour the boiling water into the pot, cover and let steep for 2-4
+
+minutes. Pour into your cup; add milk and natural sweeteners to taste.
+
+Iced Tea: (makes 1 qt/1L): Place 5 teabags into a teapot or heat resistant pitcher. Pour 1
+1/4 cups of freshly boiled water over the teabags. Steep for 5 minutes. Quarter fill a
+serving pitcher with cold water. Pour the tea into the serving pitcher. Add ice and top-up
+with cold water. Garnish and sweeten to taste.
+
+Herbicide / Pesticide Free
+
+,_\CG\‘J/L
+
+(A
+
+0 64435 35909 6
+
+TERRAW I TA®
+Fine Whole Herbs
+
+Distributed by / Distributé par
+ZooScape Corporation
+(844)449-0444-ZooScape.com
+
+PO Box 10124, Wilmington, DE, 19850",1230,212,82.33333333333333,1059,64,True,False,False,False,False,True
+260170,17.634999999999998,"L)
+
+-
+
+‘gﬂFooJ tolive
+gere—t)
+- Health",38,7,67.77777777777777,36,7,False,False,False,False,False,False
+65474,63.99,"Organic Maple
+Sugar",19,3,93.5,18,2,False,False,False,False,False,False
+25549,12.795000000000002,"£ 2501 servingS OF VESETBIS )\
+Per Can*",39,8,69.875,33,2,True,True,False,False,False,False
+210101,29.99,"%
+
+rrrTE
+
+FLAVOR WITH NATURAL FLAVORS
+
+e CHOCOLATEY COATIN
+
+s
+
+'&",65,11,67.36363636363636,60,11,False,False,False,False,False,False
+22348,17.49,"AUTHENTIC
+
+INSTANT WET MARINADE",31,4,92.8,29,3,False,False,False,False,False,False
+69365,79.99,"Q 420
+‘\\lutele
+E
+bSOE T
+a GLUT
+\\Q/// ' /
+1 |ut9.Y-
+___— g a?LSU(T)EN FREE
+o, i '
+/
+/ lute]y
+q/ ’ tG)LSU(T)EN o
+‘\iuteb.'""
+a0
+
+£
+FRE
+TEN
+
+oLy
+
+=
+RAI NkFeRPS
+G
+
+aAC
+cr
+
+L
+RIGINA
+o
+
+eal
+
+a
+o -
+
+eSS oV .
+
+o A o8
+wdg_\‘ ;
+
+ED
+1E
+RTI
+
+cEl
+
+'”“”""%"".umm’%“?
+mctuml;'smwsllns wmcH
+Fﬂm WJs
+Wm
+
+mmm&smﬂn.
+
+I ( I
+AuEx mm""m{nmms
+IIEAC YMMID
+
+MIEKH
+
+Ei
+
+ity
+TM""ESSIAIN
+
+WJH)HIIM
+FO
+g",371,79,58.18666666666667,343,69,True,True,False,True,False,False
+43008,11.1,120PIECES,9,1,64.5,9,1,True,False,False,False,False,False
+182264,7.99,"2 i SN Y 4 Enjoy lhe softhess of \%enﬂe breeze :
+that sweeps through the vineyard "" i el i i 0 _ . that sweeps through the vineyard
+_spread uasl on the hill ineachisoft 2 2 9 ‘. .spread yast on the hill in.each soft
+
+T fyCat T i and juicy Ka ape. Gum&uCahdy
+
+T GRAPE. GUMN CANDY ¢ v GRAPE GUM
+
+/ Enjoy the softhess of 2 4 1 o Emoy the softhess of € Sy Z Enjoy the softhess o} €
+that sweeps through i b oA '_ o . #% . thatsweepsthrough e b | ¥ . that'sweeps through th
+_spread yast on the hi 2 ¢ - spread vast on the hill in each sof 5 “spread yast on the.hill ineachisoft
+and juicy Kasugaj Grape Gum&uCahdy > P 7 £ -y jui Sugaj Q hdy. Y A 7 and juicy Kas! 2 Gumg\y\Cahdy
+
+NETV 3
+: APE GUMMX ~ANDY
+A GR; ,
+' Enjoy the softhess of tl { i o A : ! )\
+that sweeps through f 0 SRR e i R % . that'sweeps throug
+
+spread yast.on the hill in eachisoft % ""spread yast.on the hill in,each soft ® spread yast.on the hill in;eachsoft
+
+i at and juicy Kas 'Grane GumTyCahdy ; 5 : T Kasu.ga uEGhmgguc‘ahdy.
+g 3 ) 2 <, b
+
+mrapUcfor sl AT e PRQDUC%FJAPAN
+NETWT,, 37701, (I g SR METWT 87 . TS ue‘rwuﬂwoz (107g)""",1091,238,54.46818181818182,872,26,True,True,False,True,False,False
+35395,1.755,"anes! Shaped Pasta with
+
+Chickenfin Chicken Broth NET'WI: @lﬁom%g |
+
+ki",71,11,70.23076923076923,63,5,False,False,False,False,False,False
+201717,19.725,"TH| 3
+
+POWERED s‘/",18,4,73.6,16,3,True,False,False,False,False,True
+239169,15.74,"Visitusat
+FoodToLive.com",24,2,75.66666666666667,24,2,False,False,False,False,False,False
+240701,33.56,"100% JUICE
+Nutrition Facts
+
+About 38 servings per container
+Serving size 8 FL 0Z (240 mL)
+| =SSt |
+
+Distributed by:
+
+Costco Wholesale Corporation
+999 Lake Drive
+
+Issaquah, WA 98027 USA
+
+www.costco.com
+Certified Organic by ECOCERT SA
+
+PRODUCT OF THE PHILIPPINES @@
+
+BOX CARTON
+
+Amount per_serving
+Calories 30
+
+% Daily Value*
+Total Fat Og 0%
+Saturated Fat 0g 0%
+
+ojurajohoaigmoy
+
+Trans Fat Og
+Cholesterol 0mg 0%
+Sodium 60mg 3% i’k Lot/ Best Before:
+Total Carbohydrate 8g 3%
+
+Dietary Fiber 0g 0%
+
+Total Sugars 59
+Includes 0g Added Sugars 0%
+Protein Og
+
+Vitamin D Omcg 0%
+Calcium 29mg 2%
+Iron Omg 0%
+Potassium 470mg 10%
+Phosphorus 24mg 2%
+Magnesium 24mg 6%
+
+*The % Daily Value (DV) tells you how much a nutrient
+in'a senving of food contributes to a daily diet, 2,000
+calories a day is used for general nutrition advice.
+
+INGREDIENTS: Organic Coconut
+Water.
+
+CONTAINS: Coconut.
+
+ITM. / ART. 1495250
+
+KIRKLAND ‘
+
+966 654
+
+If you're not completely satisfied with this Kirkland
+Signature product, your money will be refunded.",1018,169,86.72685185185185,893,65,True,False,False,True,False,True
+172422,16.99,"Al
+| LUPIN| BEANS|",18,4,49.8,16,2,False,False,False,False,False,False
+166878,4.99,"Bruschettini
+
+Snack Size hafian Bruschera Toass",47,6,65.16666666666667,43,3,False,False,False,True,False,False
+31920,14.61,"""> RESEALABLER
+
+AR \\m
+
+=oREe
+NETWT 07 g5 ‘s’eEF,Eg .",53,10,66.66666666666667,47,6,True,False,False,False,False,False
+247546,17.99,"g
+<",3,2,81.0,3,2,False,False,False,False,False,False
+218503,7.465,"PASSOVER APPROVED
+
+X OF /
+07
+
+> )
+Ya N
+
+SN\
+
+o
+THI SALT pogs
+
+X NETWT 3 LBS (48 02) 1.36ke",90,22,60.30434782608695,77,14,True,False,False,True,False,False
+86106,32.49,"compare to the
+
+active ingredient in
+Nicorette®* Gum®",53,8,80.0909090909091,48,4,False,False,False,False,False,True
+115306,14.99,"QUALIN/HERBSI&NTEAS
+
+= 2/'(—.""‘
+
+A
+
+-
+
+HOJA DE AGUACATE
+A (Avocado Leaves)
+gy S, Sk 3/8 OZ (10.6 G.)",100,18,73.52631578947368,89,11,True,False,False,True,False,False
+182492,4.890000000000001,"Wetson s |
+
+Near Zero",21,5,80.0,18,3,False,False,False,False,False,False
+3294,213.26,"o
+- L (5]
+
+;‘U““‘Jr{‘fﬁ‘..
+
+AT 1507458
+e",40,8,45.55555555555556,37,7,True,False,False,False,False,False
+181347,11.135,"CONTINUOUS SPRAY SUNSCREEN
+wirv @
+
+T e &
+| \q CA Q
+
+MOISTURIZING FORMULA
+COCONUT & ARGAN 0ILS
+WATER RESISTANT (80 MINUTES)
+
+NETWT 6 0Z. (170 )",142,27,68.85185185185185,123,11,True,False,False,False,False,False
+159362,33.29,KIRKLAND,8,1,93.0,8,1,False,False,False,False,False,False
+273689,21.36,"PURE
+Maple Sugar
+BN Natural Alternative
+to Cane Sugar
+=l A",58,11,72.72727272727273,52,5,False,False,False,False,False,False
+51564,45.27,"TAZA CHOCOLATE
+
+DARK'BARK
+
+80% DARK CHOCOLATE THINS
+Sea Salt & Amond
+
+USDA
+
+TAZA CHOCOLATE
+NDYK ROD
+DARKCBARK
+
+e
+_Spm
+TAZA CHOCOLATE
+
+80% DARK 076413 CHOCOLATE THINS
+Joasted Coconut
+
+TAZA CHOCOLATE
+
+UARK BARK
+
+80% DARK CHOCOLATE THINS
+
+Coconut AMmand",250,38,77.23809523809524,229,27,True,False,False,True,False,False
+81259,5.49,"Enlargedto
+Show Detal
+
+IT 1202 (3400) ©",39,7,61.4,35,4,True,False,False,False,False,False
+131791,2.29,"ORIGINAL
+Al
+
+LINKS L
+
+o L) g AR",31,8,58.5,27,6,False,False,False,False,False,False
+228657,30.37,"‘\-»/- ’
+Cola
+W.S. EXTRACT #1209
+
+4FLOZ (118 mL)",48,9,79.72727272727273,43,5,True,False,False,True,False,False
+17024,4.79,"Nutrition Facts
+
+about 75 servings per container
+Serving size 12 pieces (30g)
+j——————————————
+
+Amount per serving
+
+Calories 110
+
+Total Fat 0g 0%
+
+Sodium 25mg 1%
+
+Total Carbohydrate 27g 10%
+Total Sugars 23g
+
+Includes 23g Added Sugars ~ 46%
+Protein 0g
+
+ea—————————""]
+Nota signifcant source of saturated fa, ans fa, cholestero,
+
+ditary fder, vitamin O, calcium, ron, and potassium.
+INGREDIENTS: SUGAR, INVERT SUGAR, CORN SYRUP. MODIFIED
+'CORN STARCH, CONTAINS LESS THAN 2% OF TARTARIC ACID,
+CITRICACID, NATURAL AND ARTIFICIAL FLAVOR, BLUE 1.
+DISTRIBUTED BY
+'MONDELEZ GLOBALLLC
+EAST HANOVER, NJ 07936
+MADE IN CANAI
+©Mondeléz Intemational group
+(QUESTIONS? CALL 1-800-524-2854
+www.sourpatchkids.com
+
+USA
+
+STORE INACOOL, DRY PLACE",724,104,79.12962962962963,647,38,True,False,False,True,False,True
+14079,2.19,"amazon grocery
+
+NATURALLY FLAVOREDWITH
+OTHER NATURAL FLAVORS
+
+LEMONADE
+
+Drink Mix
+
+o
+
+)] S
+gz (3 Sugar Free | Low Sodium
+-5 R e
+i . &N{?‘
+m - -
+
+-
+
+OORENY
+J0
+PepeS A
+
+o PAEER
+02092023960 A0S
+WM@YZ Bl ©
+
+SHOAV' 1 TvHNLYN 43HLO HLIM 3HOAV H ATIVANLWN",248,49,65.98076923076923,218,28,True,False,False,False,False,True
+129107,10.985,"Orgﬂﬁlc
+Frlends
+
+Bunny Grahams""
+Baked Graham Snacks
+
+| -
+& Vi
+< -3,’ f‘} Made with Goodness'
+
+v No Artificial
+Colors or Synthetic
+Preservatives
+
+Flavors, Sqnthetnc
+
+v No High-Fructose Corn Syrup
+
+12107 (28g) SNACK PACKS / NETWT 12.0 (3400)",239,39,74.6923076923077,213,19,True,False,False,False,False,True
+224077,5.98,"SARATOGA ~ SARATOG)
+
+ollection’
+.Colle 2 B ] | el |
+
+12floz.
+
+cans
+flavored
+sparkling
+spring water
+
+Anatomy ofa Peach",117,20,60.31578947368421,106,13,True,False,False,True,False,True
+125263,15.6,Ny,2,1,95.0,2,1,False,False,False,False,False,False
+275308,4.19,"FRONTIER
+
+S CO,OF
+
+NAT
+TU
+RAL PRODUC
+A",38,8,72.33333333333333,36,8,False,False,False,False,False,False
+189369,15.955,"CREOLE
+
+SEASONING",17,2,90.33333333333333,17,3,False,False,False,False,False,False
+62153,35.49,"BRAND ®
+
+Black
+
+Cardamom
+(Kali/Moti Elaichi)
+
+1+ROSRER
+PARVE",60,8,70.875,58,9,True,False,True,False,False,True
+148336,86.99,"'EDITERRANEAN BLEND
+
+ALLPURPOSE BLEND
+
+Bk
+
+BLACK MAGIC
+
+JN BLACKENING BLEND|
+
+OH CANADA
+TEAK SEASONING
+
+JAMAICAN JERK
+
+SMOKY JAMAICAN BLEND)
+
+RASPBERRY
+CHIPOTLE
+SWEET & SPICY BLENC
+
+CHILE MARGARITA
+
+1€ 4ICAN CITRUS BLEND
+
+Kb
+
+KOREAN BBQ
+
+ALL-PURPOSE RUB
+
+-",256,37,83.54761904761905,237,32,True,True,False,False,False,True
+3762,10.48,"‘b;VVV“VW“ e
+Chewolhobon
+CHOCODRIZZLER
+
+CANDY WAFERS
+
+NH
+2
+
+MICROWAVEABLE!
+EASY TO USE!",87,12,79.42857142857143,83,11,True,False,False,False,False,False
+283764,93.89,"E GISING
+rv\\ EPING Jo
+
+MANUKA
+HONEY
+
+RAW, WILD & UNPASTE
+
+_HONEY %
+
+)
+¢ |
+""
+CERTIFIED UMF’ )
+
+MANUKA %
+
+MGO’ , !",113,25,67.81818181818181,100,18,False,False,False,False,False,False
+167146,17.28,"nutivar Wﬁ%
+
+NOURISHING PEOPLE & PLANET
+
+coconut oll
+
+0
+O
+
+Culinary
+
+100% less
+tholesterol
+thanbutter * |
+
+nnnnn",112,18,77.84210526315789,104,16,True,False,False,False,False,False
+88555,26.47,"MADE IN THE
+
+Werlls Bost
+
+N2
+7S
+
+FAT FREE * GLUTEN FREE * LOW SODIUM
+
+NET WT. 8 oz. (226)
+
+SOUR MINI NEON GUMMI WORMS",117,25,82.86206896551724,99,12,True,False,False,True,False,False
+133577,16.95,"Baked Giant Beans
+i tomato casee
+
+Haricots Géants Cuits
+
+oo sasce tomate
+
+Gebackene Riesenbobnen
+R Tomatensauce a",113,17,54.470588235294116,102,9,False,False,False,False,False,False
+208446,10.97,"ROASTED SALTED
+
+BRAZIL NUTS®",28,4,76.8,26,3,False,False,False,False,False,False
+116477,70.52,"YOI
+
+~ Totopos de Maiz =
+Corn Chips
+
+Nat Cholesterol
+Ne T
+
+. . . .*“i
+
+’u
+
+NET WT. 16 0Z. (1 Ib,) 454 g",103,25,67.13793103448276,86,13,True,False,False,False,False,False
+124069,14.92,"JUST ADD
+AVOCADOS!
+
+|NET W 4500010",34,6,68.375,31,4,True,False,False,False,False,False
+274873,6.67,"Tropical
+Punch
+FLAVOR
+
+1 fldram 3.7 ml
+1251l oz
+
+e",50,10,77.45454545454545,46,8,True,False,False,True,False,False
+156028,13.28,"aly [
+
+g BREWED”
+
+RIG
+
+KEU",26,6,79.16666666666667,24,7,False,False,False,False,False,False
+188613,23.625,"SWEET PEA CREAMY soup—
+NEW LOOK!
+
+, [ I'Mlg/'nam
+
+@ PARVE
+
+32 FLOZ{1 QT) 946mL
+e",80,16,69.04761904761905,70,9,True,False,False,True,False,False
+117358,10.94,""" SNACK SIZE
+
+Z
+
+\
+BREAKING 5
+
+10529 S G NG",43,11,62.6,37,8,True,False,False,True,False,False
+137859,5.39,"R SRRt 3
+
+GROUND
+
+SAGE
+
+MORTON & BASSETT'
+
+SAN FRANCISCO .
+0.50z¢14g",68,12,71.41666666666667,62,10,True,False,False,False,False,False
+144305,56.01,"Maraschino
+Cherry
+
+Oolong Tea
+
+50 tea bags
+
+Ingredients: Oolong Tea, Cherries (Dried), Hibiscus Flower, Natural
+Flavors, Wild Cherry Bark.
+
+50 servings per container
+si 1 tea bag Directions:
+
+Hot tea: Bring freshly drawn cold water to a rolling boil. Place 1 teabag for each desired
+Amunt por serving
+Calories cup into the teapot. Pour the boiling water into the pot, cover and let steep for 2-4
+minutes. Pour into your cup; add milk and natural sweeteners to taste.
+
+Total Fat Iced Tea: (makes 1 qt/1L): Place 5 teabags into a teapot or heat resistant pitcher. Pour 1
+
+_SaumledFaly 0% 1/4 cups of freshly boiled water over the teabags. Steep for 5 minutes. Quarter fill a
+
+T L serving pitcher with cold water. Pour the tea into the serving pitcher. Add ice and top-up
+with cold water. Garnish and sweeten to taste.
+
+Dietary Fiber Omg Herbicide / Pesticide Free
+
+Total Sugars 0
+Protein 0y
+
+TG b =08 -, )
+
+Iron Omg 0% Potas. Omg 0% a - — -
+
+e SO AR
+
+8 i o o cortrtaie o cet. 2.0 Caorios
+
+.y 1 s o e o i 0 64435 32627 2
+
+.
+
+TERRAW I TA®
+Fine Whole Herbs
+
+Distributed by / Distributé par
+ZooScape Corporation
+(844)449-0444-ZooScape.com
+
+PO Box 10124, Wilmington, DE, 19850",1169,212,80.16587677725119,988,50,True,False,False,False,False,True
+108235,15.935,"SURESJELL
+
+PREMIUM FRUIT PECTIN
+
+LOOK! s S ~wsewag for Homemade
+
+SAME GREAT Jams & Jellies
+FORMULA : :",102,18,73.21052631578948,89,8,False,False,False,False,False,False
+114665,8.57,"2 PASSAGE
+To iNDIA -
+290 SECOND~
+
+E& (URRY Bow
+»  BUTTER MASALA
+*, wHH BA&MATI PIL Afk/lf :
+L | =
+
+Net \«t‘,yaaz (2504)
+
+3",122,26,68.54545454545455,104,12,True,False,False,False,False,False
+255165,49.29,"[ 1015 () P— '
+
+ITALIAN
+
+SEASONING
+SAZONADORIITALIANO,.
+
+/
+
+NETWT280Z(1.751B)
+(ONT. NET794 g",92,13,57.30769230769231,86,11,True,False,False,False,False,False
+46363,10.99,"i
+
+i ~ P L
+
+&
+
+FRUIT PUNCH
+
+FLAVOR WITH OTHER NATURAL FLAVORS
+
+ENEHGY DRINK
+
+PER CAN
+
+AI.
+
+6FL OZC il LITER;
+4
+
+FLAVOR WITH OTHER NATURAL FLAVORS
+
+FRUIT PUNCH",158,30,71.8,140,22,True,False,False,True,False,False
+248456,2.99,"mac&
+CHeese",11,2,83.0,11,2,False,False,False,False,False,False
+273526,4.79,"Kosher Dill
+Spears",18,3,88.0,17,2,False,False,False,False,False,False
+30664,39.99,"PREMIUM www.BBjerky.com
+
+WITH REAL MAPLE SYRUP
+
+I Best Sty Sau W, Protin esocs o Soy Bea, e Com Sy, CameCoko Potassiom
+o] Sug, Sroke e s Nopl Sy, oo o, Spe, G Powler, e Whe.
+
+Nutrition = 3
+
+15855 10093 5
+
+= NETWT. 11b. (1602)
+ek ey s A G
+Distributed by: Choo Choo R Snacks,Ic.
+
+SovmgSae Terriy
+Sove e Can 35
+o
+
+T et T
+S
+
++ Lebanon,PA 17042  (717) 2737499",354,72,53.58064516129032,296,23,True,False,False,False,False,False
+67927,44.0,"@ FINE HOT SAUCE ¥
+Fariley Recipe
+
+PEPPER
+
+SFLOZ (150mL)",56,10,69.9090909090909,50,6,True,True,False,True,False,False
+264011,62.010000000000005,"ARTIFICIAL FLAVOR
+
+) PACKETS/NETWT D
+
+|",39,6,82.15384615384616,36,5,False,False,False,False,False,False
+209694,7.24,"# AMERICA’S
+GLUTEN FREE CINNAMON FLAVORED CANDY*
+
+FATFREE
+
+9«? "" $@
+
+GALDRIEE S“L”;,’f“ GLUTEN FREE CINNAMDN FLAVORED CANDY*
+
+PER SERVING | PACKAGE FAT FREE
+
+Nmnnazauu‘9 e b b @
+
+arl' m
+
+]]0 ssnvmss § ,_ ‘ (_' X A i
+PERSERVNG | PACKAGE | L)\CTA'I. ———  FIERCE CINNAMON
+
+NETWT.4.2507(1200)  ARTIFICIALLY FLAVORED FLAVORED CHEWY CANDIES",334,54,69.86567164179104,289,19,True,True,False,False,False,True
+150391,18.25,"Jirtnienty
+
+1",13,2,74.0,13,3,True,False,False,False,False,False
+6306,39.03,(D) NS0 (1418¢)  NATURALBANTFCIL EAVORS,39,5,54.2,34,1,True,False,False,True,False,False
+142282,38.54,"Raspberry .
+a4
+
+Oolong Tea o
+50tea bags i.i",43,9,49.6,38,5,True,False,False,False,False,False
+71590,4.69,"JALAPENO RANCH
+FLAVORED",23,3,87.6,22,2,False,False,False,False,False,True
+240535,12.995,Hus W Hws,9,3,80.33333333333333,7,1,False,False,False,False,False,False
+230905,14.99,"-
+
+> b 5-‘-3
+...... blr ,‘ q@ C j T C’ ;o:EE
+
+| e g gupl.
+E'. REA ELICIGUS : AWE
+
+SOUR LICORICE
+WITH A CANDY SHELL
+
+Chewy Red Inside.
+Sour Candy Outside.
+
+-",156,35,76.53658536585365,131,15,True,False,False,False,False,True
+160200,4.32,"&=
+NET WT 7.5 0Z (2129) @",25,7,82.0,20,2,True,False,False,False,False,False
+274674,5.345,"CANNELLINI
+
+WHITE KIDNEY
+
+NET WT15 OZ
+2259 1",44,8,76.5,40,6,True,False,False,True,False,True
+44612,6.64,"Dare
+ALL NATURAL
+
+water (rackers
+
+ade with
+
+orginal",51,8,83.11111111111111,48,8,False,False,False,False,False,False
+65166,14.95,"IHiN;
+
+& PEST)",14,3,55.666666666666664,13,3,False,False,False,False,False,False
+193140,39.99,"i w Db
+Gomeee) /Bomsir)
+
+&
+
+[
+)
+©
+5
+=
+=
+(=
+-
+
+ffe
+lidni lagic Café Caf lien —
+MAGIC® SRS Méange srdfice = = T @O‘EFETE | [COEFEIE""
+DARK ROAST COFFEE S y ”A DOUBLE DOUBLE
+@ G CAFFEINE CAFFEINE
+
+B
+H
+"".'E'
+
+GomsLe)
+[COEFIEE®
+
+DQUBLE
+CAFFEINE
+
+7
+
+Midnight Magic
+Magie de minuit
+
+MAGIC®
+
+DARK ROAST COFFEE
+
+o
+=
+-
+
+KEURIG
+
+2
+%@
+2
+
+r
+|/
+
+s
+
+&
+<
+-
+""5""
+@
+o
+€l
+w
+[
+-l,rgV
+
+g:q
+@-
+e
+
+5
+z
+
+DARK
+MAGIC®
+
+DARK ROAST COFFEE
+
+Midnight Magic Firecracker
+Magie de minuit Mélange artifice’
+
+910
+=
+§
+()
+=
+
+861031954541 1
+
+> torre 7 lien
+LI
+
+S I
+
+i
+)
+2|
+)
+%
+)
+2
+w
+
+KEURIG'
+
+[
+B
+
+| BB | A
+BoUBLE! /DOSUBLE!
+DARK ] B:Nut | ] BD-NUuT
+
+Midnight Magic
+Magie de minuit
+
+Firecracker
+Mélange artifice™
+
+MAGIC®
+
+DARK ROAST COFFEE
+
+<
+) S
+
+2
+=
+A
+(o)
+o
+=
+
+as
+2
+%@
+-
+
+KEURIG'
+
+|
+[
+
+==
+
+()
+@%‘
+2l
+C] 5'
+
+SHOCK / CVES T\ ol N BoUBLE|
+SHOC ; ‘M L ) - B tu S N - B:-NuT
+COFFEE ? , o : @
+S Guyfieri. 43 % yferi. DOUBLE , DOUBLE
+& 4 CAFF
+
+8
+
+SHOCK
+
+COFFEE Midnight Magic
+
+Magie de minuit
+
+oep is overrated.
+
+SHOCK | SHOCK
+
+COFFEE COFFEE
+
+op is overrated. cop is overrated.",1032,227,62.85537190082645,925,169,True,True,False,False,False,False
+218798,19.99,"Natural
+way
+
+Detox
+Tea Bags
+
+100 HERBAL PYRAMID TEA BAGS
+
+100% Natural
+
+\RKETING & DISTRIBUTED BY
+
+ORGANIC WAY LLC",114,19,84.95833333333333,103,13,True,False,False,False,False,False
+233065,1.49,"Butterfi ng B
+
+crlspety crunchety, peanut-| butteryl
+
+ﬁ ER""'NGEK' CAIID""
+) p ‘, |
+
+NET WT. 5.25 07 (1499) ’Nse:zs; 48
+~",119,22,64.57692307692308,103,9,True,False,False,False,False,False
+72342,46.41,"v @ad to Lea""
+
+s Ry",19,6,43.285714285714285,15,3,False,False,False,False,False,False
+72067,9.85,"3 Birfhday Cal
+DessEry o, PPINGS",32,6,60.833333333333336,28,2,True,False,False,False,False,False
+84196,12.45,"20 INDI\IIDUALLV WRAPPED = = i
+= AND TAGGED TEA BAGS RS ¢
+NET WT S0g @ 1702 =",77,19,74.6842105263158,61,3,True,False,False,False,False,False
+107365,20.99,"LUSCIOUS ¢« PLUMP ¢« SUCCULENT
+
+TERRASOUL
+
+S UPERTFOODS
+
+MAGNESIUM
+DIETARY FIBER
+VITAMINS A & K
+
+PITTED
+
+PRUNES
+
+NATURALLY SWEET & UNSULFURED
+
+THE WAY A DRIED PLUM SHOULD TASTE
+
+NET WT 24 OZ (680G)",197,33,86.88235294117646,175,19,True,False,False,True,False,True
+26936,4.39,"= - B, S\\
+
+CALORIES
+PER PACKAGE
+
+H FRUCTOSE CORN SYRUP
+
+""‘ 1
+
+MADE WITH REAL PEANUT BUTTER | NO HIG
+
+8 PACKS -
+0.1 3010k PRCAGES NETWTTOLGI @ il",145,30,76.89473684210526,123,13,True,False,False,False,False,False
+272978,7.04,"@ ﬂ Green Giant.
+
+Steam
+
+BCRISP
+
+,,“ ,j\,
+
+NO SALT ADDED",56,11,68.25,50,9,False,False,False,False,False,True
+237048,18.85,"= FAMILY TEA SINCE 1945
+
+REEN TEA
+
+with MINT",44,9,92.58333333333333,38,5,True,False,False,False,False,False
+136095,11.485,"100% EMPLOYEE-OWNED
+
+GLUTEN-FORMING
+PROTEIN CONTENT*
+
+UNBLEACHED
+
+ALL-PURPOSE
+. FLOUR
+
+WHEAT VARIETY 100% U.S. Hard Red Wheat Grown on American Farms
+PROTEIN CONTENT | 11.7% — A versatile flour to suit all your baking needs
+
+IDEAL FOR CAKES, COOKIES, BREAD, BROWNIES, PANCAKES & MORE
+
+FELIFIZIEIENE _ == EEE =l
+
+NON
+A/ 4 Gmo",324,52,79.0909090909091,284,19,True,False,False,False,False,True
+270438,24.99,"«f/ \M’\
+
+Scotch Mints
+Menthesecossaiss |
+
+-
+
+e B",49,9,58.333333333333336,45,8,False,False,False,False,False,False
+108458,19.99,"Ole Smokehoust %
+
+Barbecye Sauct
+13602,",39,6,74.16666666666667,36,4,True,False,False,False,False,False
+231177,33.47,"& V 4
+Bvers W
+
+~4
+
+For the holistic health of our farms, farmers, plants & animals
+
+) % ' THIRD GENERATION ORGANIC TEA GROWERS “DAVIDSON Sy
+—— ORGANICS—
+
+=",155,30,65.6875,132,11,True,False,False,False,False,False
+295482,14.9,"There ey
+
+., RuLEs,
+
+i
+
+ins
+
+£ach 109 Slie conta
+ey
+
+144K)
+
+3%(3]
+
+Of anadults reference ntake :
+Dpohebes BT 00g:Ere ) /32",122,23,45.4,109,17,True,True,False,False,False,False
+146177,6.99,"Milton's
+
+OLIVE OIL &
+
+SEA SALT
+
+Organic Crackers
+NETWT 6 0Z (170g)",67,12,85.76923076923077,60,8,True,False,False,False,False,False
+233511,79.95,"YETERAN OWNED
+
+NOMSS
+Et NOSUGAR
+== e ey
+FRIENDL!
+GLUTENFRIE
+VTERAN MADE,
+
+B STAR
+
+)
+VBT wr 3.4 oz (380
+
+¥,",106,21,55.904761904761905,96,15,True,True,False,True,False,False
+272332,15.95,"4
+-
+5
+b
+g
+]
+7
+[
+""
+-
+w
+Z
+| B
+g
+
+RS ASSLARAVASY
+
+Chupanic'®
+NET W, 12 0z (3400)",77,23,53.666666666666664,71,19,True,False,False,False,False,False
+20013,33.5,"TERRAVITA
+
+Orange
+Lemongrass
+
+3
+| - Dandelion Root Tea s",56,10,71.81818181818181,51,7,True,False,False,False,False,False
+248978,10.99,"IS
+
+< PULL TAB d-;
+
+JADE LEAF
+
+MATCHA LA
+
+VANILLA
+
+@@ @
+swes |\ BASED 7 SEALED!",79,17,63.1875,69,12,True,False,False,False,False,False
+81251,26.39,"Vids'
+
+W
+
+i
+
+ds
+For preserving food
+
+th Ban
+
+i",46,10,81.6,43,12,False,False,False,False,False,False
+291251,8.99,"efIp DLy presEr AeroLissaey
+ROA SIA AN NOK OF IIQEIIEAE 2 SED] U SQISY ISIULL D [ELUOIIIPEL] ISILS
+KOPOY OUID 1i7 STCLIIN SIt] L] SEPD] PPl SQIdty SUII[DS 4DE[FESIPLLELET LUAND ST SO SILLOIS
+UDQUUDELUDL CUED IDUAND RCUPALLOD DEf L SSOLISIIG PILUANC-AJJELEY LLEILLIILANS DEDLLL D
+B ARG N SN DS il DPELL SI J)  AOIIIPEL] € GIIVS CLlOL FILOD EDL ST PfALL
+e 4
+oISy LTS SIELE  SCprers  LroAD IIINCIALD [Pt PIIPIIIE S YDA IINDS SelfOLie
+z i o el e g SEslre > DL AN JIFeiry IEBAN S
+cos Pty sAn Ageaiins Jeniss wes griser wcFiEL S s L o s Emprrn o XAt OF SyGE e
+s iirigy By - e e ot S o S P oA amrs P tts Srdcmad FEIAN DS oF
+Y e R, S B e R B LR T e, s ey BeBos D FIIIIIIINLL
+
+SDIIIIIEUDD DEfI AP CUOIIOAIEIDET OF LAOIFOLILUDE LLs L) 4> PPISSErd L4327 SEref",748,154,23.31645569620253,603,13,True,True,False,True,False,False
+2511,50.76,"50 servings per container
+Servingsize 1 teaspoon
+
+Amount per serving 0
+
+Calories
+
+i
+i
+
+Dietary Fiber Omg
+Total Sugars 0
+includes Og Added Sugars
+Protein 0g
+
+Vit D Omog 0% Calcium Omg 0%
+iron Omg 0% Potas_0mg 0%
+% Daly Vakse (V) (o you how much a it 1
+
+FREFEFREF
+
+Mandarin
+Orange
+
+White Tea
+
+8 oz (Loose)
+
+R e o
+
+Ingredients: White Tea, Orange Peel, Hibiscus Flower, Rose Hips (Whole),
+
+Natural Flavors.
+Directions:
+Hot tea: Bring freshly drawn cold water to a rolling boil. Place 1 teaspoon of tea for each
+desired cup into the teapot. Pour the boiling water into the pot, cover and let steep for
+2-4 minutes. Strain and pour into your cup; add milk and natural sweeteners to taste.
+Iced Tea: (makes 1 qt/1L): Place 5 teaspoons of tea into a teapot or heat resistant pitcher.
+Pour 1 1/4 cups of freshly boiled water over the tea itself. Steep for 5 minutes. Fill a
+serving pitcher with 1/4 cold water. Strain and pour the tea into the serving pitcher Add
+ice and top-up with cold water. Sweeten and garnish to taste
+
+Herbicide / Pesticide Free
+
+>80 =, T ek 22~
+= ST AR
+
+TERRAW I TA®
+Fine Whole Herbs
+
+Distributed by / Distributé par
+ZooScape Corporation
+(844)449-0444-ZooScape.com
+
+PO Box 10124, Wilmington, DE, 19850
+
+L
+
+0 64435 40764 3
+
+sk",1241,223,81.99095022624434,1059,61,True,False,False,True,False,True
+206609,32.3,"BRAVE soult TR -\
+ot
+
+-",23,6,42.6,20,4,False,False,False,False,False,False
+127502,29.99,"W LESS . b
+SUGAR! TaNT-
+
+~ PLANT-BASED & DELICIOUSLY SOFT-BAKED
+CHOCOLATE BROWNIE
+
+;&No Nuts! Luhchhbox Réddg!""‘",112,17,63.6875,100,7,False,False,False,False,False,False
+261368,14.105,"& serving
+suggestion
+
+PACKETS",29,4,78.57142857142857,28,4,False,False,False,False,False,False
+19141,9.98,"Inresistible Cmart,
+Snacking! Eatin",35,4,64.75,33,2,False,False,False,True,False,False
+215554,4.69,"ADE FROM
+
+» 89% AR?T?‘F(I)C'TAI. us GRONN
+WHOLE GRAINS COLORS or CORN
+
+— PER SERVING — FLAVORS ADDED
+
+v \*\WW
+
+» N |
+/ | | =
+| \\‘ i\‘\ L ] r: A
+
+V‘,\I v - -
+
+FLAVORED",167,39,68.17948717948718,138,16,True,False,False,False,False,True
+251784,5.88,"cinnamon
+
+NET WT. 2.45 OZ. (69)",31,6,63.42857142857143,27,3,True,False,False,True,False,False
+185249,7.29,"A DELICACY FROM SWEDEN
+
+LINGONBERRIES",37,5,91.5,34,3,False,False,False,False,False,False
+86828,4.265,"\RON
+
+— to help support—
+LEARNING
+ABILITY
+
+Gerer.
+
+Oatmeal
+
+Banana
+Strawberry
+
+Crawler !ﬂ
+
+8+ months",100,15,82.375,95,16,True,False,False,False,False,False
+13491,9.455,"=
+
+Z
+
+< uikYT ®
+¢ Qe
+L
+
+>
+
+wti
+
+VEGAN E NET WT. 10
+N\.CDG_/
+
+Z 240g | 8450z SERVINGS",84,21,80.43478260869566,73,16,True,False,False,False,False,False
+82516,15.1,"Wlagalm
+
+SEREE G
+PEARL SUGAR
+
+InroRTED",38,6,81.2,36,6,False,False,False,False,False,False
+79135,12.05,"Earthly
+Sl",10,2,93.8,10,2,False,False,False,False,False,False
+215511,23.09,"4
+
+=
+CALORIES
+
+12017
+
+W EDS",27,6,61.5,26,8,True,False,False,False,False,False
+105749,2.08,"orgomcs
+
+ORGANIC
+BABY FOOD &
+
+Project
+
+VERIFIED ; NErT
+e @ 4013",63,12,73.75,57,9,True,False,False,False,False,False
+272720,27.74,"M —
+
+~amzv
+
+8>srm5£ff
+
+’L &fﬁf”fﬁ'ﬁﬁ
+
+e e T)",44,9,52.6,40,9,True,True,False,False,False,False
+168686,2.72,"Hazelnut
+
+“ ARTIFICIAL FLAVORS
+7 Nestle.
+- \Gmaté
+
+liquid creamer
+
+- refrigerate after opening -",96,15,71.7,87,9,True,False,False,False,False,False
+3788,2.92,"' golden fudge
+
+- GOLDEN CAKE MIX &
+CHOCOLATE FUDGE FROSTING
+
+EASY CAKE
+
+D@Q
+
+READY TO SPREAD
+CAKE MIX  6-INCH PAN FROSTING
+
+NET WT 8.4 0Z (2400)",145,27,77.42857142857143,125,13,True,False,False,True,False,False
+177943,9.99,"neon
+
+rite orange
+a——
+
+-gel® food colf
+
+L oes
+vhefmaster
+
+NET WT. 2.3 oz (659)",78,15,72.57142857142857,70,11,True,False,False,True,False,False
+39160,76.53,"=~
+impl
+érgaquyc
+
+vanilla
+
+»
+
+| wer2rozisem)",44,7,54.57142857142857,43,9,True,False,False,True,False,False
+146900,117.49,"Nutrition acts
+
+50 servings per container
+s 1 tea bag
+
+Amount per serving 0
+
+Calories
+
+Total Fat
+Saluraled Fal Og
+Trans Fat 0g
+
+Dietary Fiber Omg
+Total Sugars 0
+includes Og Added Sugars
+Protein 0g
+
+Vit D Omog 0% Calcium Omg 0%
+iron Omg 0% Potas_0mg 0%
+T % Daly Vakso (1) (o you row mech et
+
+FREFFFREF
+
+Lavender
+Lemongrass
+
+Decaf Black Tea
+
+50 tea bags
+
+Ingredients: Black Tea (Decaf), Lavender Flowers, Lemongrass, Lemon
+
+Peel, Natural Flavors.
+Directions:
+Hot tea: Bring freshly drawn cold water to a rolling boil. Place 1 teabag for each desired
+cup into the teapot. Pour the boiling water into the pot, cover and let steep for 2-4
+minutes. Pour into your cup; add milk and natural sweeteners to taste.
+
+Iced Tea: (makes 1 qt/1L): Place 5 teabags into a teapot or heat resistant pitcher. Pour 1
+1/4 cups of freshly boiled water over the teabags. Steep for 5 minutes. Quarter fill a
+serving pitcher with cold water. Pour the tea into the serving pitcher. Add ice and top-up
+with cold water. Garnish and sweeten to taste.
+
+Herbicide / Pesticide Free
+
+\CC\OJ) )&""' 2 9>~
+i &, ~¢
+L N 55
+
+TERRAW I TA®
+Fine Whole Herbs
+
+Distributed by / Distributé par
+ZooScape Corporation
+(844)449-0444-ZooScape.com
+
+PO Box 10124, Wilmington, DE, 19850
+
+(NN
+
+0 64435 35376 6",1255,220,81.91743119266054,1077,62,True,False,False,False,False,True
+71599,1.535,"FREshlCE
+
+mnm mmmm",18,3,72.33333333333333,17,3,False,False,False,True,False,False
+65177,3.29,"y
+
+]
+SUGAR _ CALORIES /
+
+NET CARBS
+
+NOONE'g
+WATCHING) ™
+
+—",58,12,82.63636363636364,53,11,False,False,False,False,False,False
+91401,4.99,"ity
+RICE KRISPIES
+
+Original
+16
+
+BARS",36,6,92.0,35,7,True,False,False,False,False,False
+59342,8.17,"P P i
+
+‘%‘Md VAL ha B
+o 1
+J
+
+8 B OVEN o AIR FRYER M
+
+o SERVING:
+SUGGESTION
+= A
+Pl N i
+A N b | =
+
+. @ \J
+
+XPRESSIONS
+
+ SEASONED
+— COATING MIX
+
+&= MEALS NET WT 5 0Z (1420)
+
+i
+
+FLAVOR",180,47,57.017857142857146,149,26,True,False,False,False,False,False
+250421,25.95,"STRAWBERRY
+
+MILK FLAVORING STRAWS",33,4,84.4,31,3,False,False,False,False,False,False
+172952,6.99,"& Z€r0 sugar O Z€r0 sugar
+
+) )
+CD rise CU rise
+
+orange orange
+flavored + other natural flavors flavored + other natural flavors
+
+I PR R minG
+
+ACEAL
+
+100~
+8 25%  antiox.
+
+1IN \ater beverage
+
+m 2.8mg zinc \ zinc
+H nutrient enhanc \1 6 9 :nt enhanced CU
+
+Z ‘beverage
+
+PACK
+
+16.9 FL OZ (1.06 rapwwmss wrL OZ (1.06 PT) 500mL
+
+t GLACEAU mm
+
+= 7
+
+Zero sugar
+O
+CU rise
+
+orange
+flavored + other natural flavors
+
+G vitamin ¢ @ zinc
+
+250% antioxidant vitamin ¢
+
+100% vitamins b3, b5, b6, b12
+
+25%  antioxidant vitamins a&e
+
+2.8mg zinc
+I e anyaneed
+169FLOZ(106PT)500m|-
+
+S",560,105,69.58653846153847,483,50,True,True,False,True,False,True
+184656,9.99,"ultra light
+cleansing
+
+o]|
+|
+| [Neutrogena
+
+effortlessly and
+completely removes
+waterproof makeup,
+dirt & oil
+
+rinses clean
+
+40FL. 0Z. (118 ml)",143,22,80.3913043478261,132,15,True,False,False,False,False,False
+195629,225.55,"White Monkey
+Paw Tea
+
+4 oz (Loose) {
+
+- - > . - - . -
+Nutrition Facts Ingredients: Green Tea.
+25 servings per container Directions:
+size 1 teaspoon
+Hot tea brewing method: When preparing by the cup, this tea can be used repeatedly - about 3
+P pa g ) times (or even 7 times if you are attempting to reach My Penglai). The secret is to use water
+Calories that is about 180 degrees farenheit or about 80 degrees celsius. Take 7-10 leaves (which is about
+
+alarge pinch of tea, using your forefinger and thumb) and let them steep for about 3 minutes and
+
+< Dol Value
+Total Fat 0y 0% then begin enjoying a cup of enchantment. Do not remove the leaves from the cup. Once the water
+Skl o% level is low, add more water, and so on and so on, until the flavor of the tea is exhausted. Look
+rans Fat Og
+e o at the pattem of the leaves in the brew, they foretell life.
+Sodium 0mg 0% Herbicide / Pesticide Free
+0%
+0%
+0%
+
+R ‘ CUSE AR mummm
+
+The % Dl Vs (OV) sy how uch & s
+o0 conteutes 1. Gy 351 2000 o t
+0 64435 10612 6
+
+3y s o enors A a4t
+
+s
+
+TERRAWITA
+Fine Whole Herbs
+Distributed by / Distributé par
+ZooScape Corporation
+(844)449-0444-ZooScape.com
+PO Box 10124, Wilningion, DE, 19850
+
+o n faclity that",1190,237,80.09328358208955,986,43,True,False,False,True,False,True
+152840,3.68,A\‘\,4,1,87.375,4,1,False,False,False,False,False,False
+72337,8.145,"MEZ1l
+RIGATONI
+
+Srpepmy cam%“",29,4,65.25,28,4,True,False,False,False,False,False
+67074,4.885,Lll PREFEDIDA,13,2,81.33333333333333,12,1,False,False,False,False,False,False
+124622,32.86,"=
+
+impl
+Srgane.
+
+southwest taco
+SIMMER SAUCE | &%",49,9,87.8125,45,7,False,False,False,True,False,False
+271271,21.99,"COPPER
+MOON""®
+
+CROREEERE 'E
+
+Well-balanced blend with rich, nutty
+flavors & a sweet, smooth finish
+
+MEDIUM ROAST | GROUND
+
+Does not Contain Hawaiian Grown Coffee
+
+NET WT 12 0Z (340 g)",183,31,83.84375,160,13,True,False,False,False,False,False
+198446,21.665,"GATORADE L GATORADE, -
+IERCE | FIERCE
+ke HIRST QUENCHER ) ‘RiT QUENCHER |",73,14,54.46153846153846,62,3,False,False,False,False,False,False
+192504,16.425,"Whole Wheat
+
+Flour Tortillas
+
+FLOUR
+TORTILLAS
+
+NETWT 12.7 07 (360g)
+
+Net Carbs:
+
+per serving",92,14,80.8125,85,12,True,False,False,False,False,False
+124436,26.26,"W8 eeseatable for Freshness!
+
+,
+%Food tol ve®
+
+Health
+
+Visit us at
+FoodToLive.com",81,13,71.61111111111111,74,9,True,False,False,False,False,False
+41876,6.49,"NOT FOR PASSOVER USE
+
+>l | | | [ \ |
+N | \ ‘ | ] 2 ¥
+
+LOW FAT « VEGAN - NUT FREE
+
+‘ e
+
+] ; ‘ v
+"";:v' ™ o [ ¥ ’ o . o e -
+L * - v | ol - - . -~ - o
+‘L § bl e — - - ~ -~ = o - ' vy £ -
+
+¥
+3 4 W N",193,76,59.476190476190474,128,16,True,True,False,False,False,False
+76807,8.99,"Epices se mélangent pour
+preparer le riz au citron
+
+'/
+
+1l |",60,12,83.21428571428571,52,6,True,False,False,False,False,False
+132073,36.435,"N A O A S
+
+ey
+
+P S
+
+S L NI TR R A1)
+
+B
+
+FULL LEAF HERBAL TEA
+
+:
+o
+:
+:",69,23,45.48,56,16,True,False,False,False,False,False
+9657,14.39,"DEAD SEA _
+
+»",13,4,91.11111111111111,11,3,False,False,False,False,False,False
+39474,49.94,"b
+=
+
+| impl:
+Stanic.",20,5,53.6,19,5,False,False,False,False,False,False
+127274,2.6,"LA L = @BETTE.R’*
+
+SNACKS’
+
+enlarged
+for detail
+
+HONEY
+ALMONDS
+
+PER BAG
+
+01 1.5 |2200] 8 T WX",93,18,68.17647058823529,83,13,True,False,False,False,False,False
+212009,145.99,"HOMEMADE'
+
+Al atral,promiam
+ARRABBIATA
+Sy Macinn
+NETWT24 02151815808",68,8,53.714285714285715,65,6,True,False,False,False,False,False
+93408,6.8,"s i
+
+CONTAINS WEIRD & WILD FLAVOURS
+ERLEBE DIE WILD-VERRUCKTEN
+GESCHMIACKER CONTIENT DES
+SAVEURS BIZARRES ET CHOQUANTES
+
+)
+;
+| NET 549 ¢",136,23,73.21428571428571,121,10,True,False,False,False,False,False
+201777,89.99,"Resealable for Freshness
+ <tear here! .
+
+Visit us at
+FoodToLive.com
+
+Food To Live, New York, UDA
+(nfo@FoodToLive.com
+
+al[ﬂlh L M R 1L1,;,‘JJJJ:,‘L“1J‘",150,22,70.0,134,10,True,False,False,False,False,False
+174512,4.99,"PRORO
+I(OIHIBAN “
+
+)
+N E MeenyEs P A O
+
+CHBAN s ¢
+
+JAPANESE STYLE NOODLES & ORIGIT FLAVORED-SOUP |
+
+SA",102,21,57.21052631578947,88,11,False,False,False,False,False,True
+36991,8.9,"Fi!
+
+SUPER N\OIST"" o
+Ll fov CHIP WTEER
+
+e
+|
+
+TSR
+
+— SUPER MOIST",63,14,72.22222222222223,56,11,False,False,False,False,False,False
+112112,24.99,"Meyer 1emon Blooi 24 mon Bloo!
+Orange pepper Jel W& ""ange pepper Jellf |
+
+€t Wt 10.5 oz (2979)
+
+Net Wt 10.5 oz (2979)",117,24,63.95652173913044,97,6,True,True,False,True,False,False
+44704,21.46,"STARBUCKS
+
+VIA
+
+READY BREW
+
+@) SINGLE-SERVE
+PACKETS",51,7,85.76923076923077,49,8,False,False,False,False,False,False
+197319,42.0,"\
+
+ce 1Y)
+
+i
+i From ',Jﬂﬁan 4
+
+I, * _Sprinkling _ * !
+"" SREEN NORI *
+SEAWEED'
+
+I*  FURIKAKE **
+
+organic ‘
+vegan !
+
+q
+
+NET W 70g (2507 @",135,32,57.7,114,19,True,False,False,False,False,False
+185492,2.99,"i T
+YMEMADE TAST
+
+CLASSICO
+
+FAMILY
+
+FAVORITE",44,7,70.25,42,8,False,False,False,False,False,False
+198241,52.99,"se
+
+EXPERTLY BLENDED IN IRELAND since Q01
+
+EREAKFAST
+
+OUR LIGHTEST
+¢7 AND MOST REFRESHING
+SIGNATURE BLEND
+
+3, ®
+S
+ﬁy’ljﬁ!
+
+=
+
+G s
+
+80 TEA BAGS | 250g/8.80z &",157,29,72.41935483870968,140,19,True,False,False,False,False,False
+191919,41.75,"PEEL HERE TO OPEN PEEL HERE TO OPEN
+
+ORIGINAL ORIGINAL
+
+| QIUNIWHE1 ATIVANIVN
+
+1220 A1TYANLYN 3501 404 1432X3 G30QY SULLIN HO S3AVHLIN ON
+
+=)
+m
+m
+m
+(7.
+:l
+N
+A
+
+=
+3
+z
+=
+ES
+E
+=
+z
+2
+3
+=
+3
+=
+E
+2
+z
+3
+s
+=
+£
+2
+8
+g",206,54,72.17391304347827,187,40,True,True,False,False,False,False
+294361,6.49,"( ORGANIC
+
+Ne Nettle Leaf
+
+Sgpé Supports Joint Health
+
+& Overall Wellness*
+—
+
+B
+Caffeine Free
+
+16 ng;l:vesd Tea ll3agf Caffeine Free
+Herbal Supplen 16 Wrapped Tea Bags
+
+NETWT1.130Z Herbal Supplement
+| NETWT1.130Z (32g)",218,34,85.05263157894737,195,17,True,False,False,False,False,False
+64454,13.99,"ALTPERE
+
+@
+
+w m:”""
+
+PALM OIL FREE
+GLUTEN FREE Creamy
+#NON-GMO
+
+Hazelnut Spread
+
+@
+W ﬁmuozm) .",93,17,78.11538461538461,85,14,False,False,False,True,False,False
+111069,39.59,"T
+
+NUTRITION :
+Typical valyes per 100g
+
+j ca
+: 216 7kj/
+
+ot which saturates 32§
+
+CARBOHYDRATE 40,
+
+of which sug gg
+i ars 17g |
+
+ural World
+
+A delicately
+dates and
+broken nt
+spread that
+as it s enj
+
+is a great addil
+on toast, 0
+cakes, muffins an¢¢",246,50,69.86206896551724,214,26,True,False,False,False,False,False
+255696,6.74,"NOADDEDNITRATESORNITRITES . NOADDEDMSG. | 50 CALORIES
+
+NO
+
+1‘ =
+
+BEEF JERKY
+
+waoewin 100% BEEF | 7g PROTEIN
+
+NETWT. [l 625[12(18[1) W:::: e",139,22,76.95833333333333,123,11,True,False,False,False,False,False
+106857,8.49,"OA Gourmet.
+
+Sandwich Slices
+
+& 109
+
+PROTEIN
+
+Made with 60% Cauliflower
+
+NETWT6130774 ) & Count Pack",100,16,75.5,90,11,True,False,False,False,False,False
+214226,2.5,"100
+
+CALORIES
+PER SERVING",25,4,93.2,24,4,True,False,False,False,False,False
+268097,7.83,great taste...naturally”,24,2,90.33333333333333,23,1,False,False,False,False,False,False
+94638,30.435,"INGREDIENTS: TOMATO CONCENTRATE
+£Roth BED RIPE TOMATOES, DISTILLED
+UNEGAR, HIGH FRUCTOSE CORN SYRUP, %%
+CAN SYRUP, SALT, SPICE, ONION POWDER,
+vaxuthl FLAVORING.
+
+MFD. IN U.S.A. BY
+
+H.J. HEINZ CO, LP,
+PITISBURGH, PA 15222 !
+
+15140192-003 6246 :
+
+L",246,38,64.8125,218,14,True,True,False,False,False,True
+225513,4.9350000000000005,"LARGE SIZE
+
+FEEDING
+READING
+
+FEEDING eyl
+READING it
+
+R GET 2 FRe
+
+fhen you
+FEEDING A ek
+READING :",97,19,68.6842105263158,87,13,True,False,False,True,False,False
+293950,19.95,"w. £
+
+e
+
+1S
+Yu\zu MARMALADE |
+Net wt. 100z ISOOg",48,11,77.57142857142857,42,7,True,True,False,False,False,False
+6479,4.79,"|
+
+sparkling water!
+
+pineapplelovsly
+
+pineapple flavor with othe
+naturl flavors
+
+A -",84,12,71.44444444444444,78,10,False,False,False,False,False,False
+21859,30.995,"SU PERFOOD
+PROTEIN
+
+12 209
+
+ERYTH
+"".L‘.‘:.’:.i’:fs"" PROTEIN RITOL
+
+PERSERVING
+
+Net Wt. 20.6 0z (1.3 lb) 585 g",109,18,81.85,98,11,True,False,False,True,False,False
+135228,36.99,"MINERAL
+SPRING
+WATER™
+
+- 4
+.
+
+Naturally
+Abaine.
+
+Ty
+
+500mL - 16.9floz",69,12,65.61538461538461,66,13,True,False,False,True,False,False
+1831,26.09,"Pomegranate
+Grape
+
+White Tea
+
+25 tea bags
+
+s T A
+Ingredients: White Tea, Pomegranate Peel, Raisins (Golden), Raspberries
+
+25 servings per container
+s 1 tea bag
+
+Calories 0
+
+i
+i
+
+(Red), Natural Flavors.
+Directions:
+Hot tea: Bring freshly drawn cold water to a rolling boil. Place 1 teabag for each desired
+cup into the teapot. Pour the boiling water into the pot, cover and let steep for 2-4
+minutes. Pour into your cup; add milk and natural sweeteners to taste.
+
+Total Fat
+Saturated Fat Og
+Trans Fat 0g
+Cholesterol
+Sodium Omg
+Total Carbohydrate Omg
+Dietary Fiber Omg
+Total Sugars 0
+includes Og Added Sugars
+Protein 0g
+
+I
+
+VDo Calcum omg 0% b =% =, ;e 8
+
+fron Omg 0% Potas. Omg 0% g > Ryl c €= [ >
+e SO AR
+
+Iced Tea: (makes 1 qt/1L): Place 5 teabags into a teapot or heat resistant pitcher. Pour 1
+1/4 cups of freshly boiled water over the teabags. Steep for 5 minutes. Quarter fill a
+serving pitcher with cold water. Pour the tea into the serving pitcher. Add ice and top-up
+with cold water. Garnish and sweeten to taste.
+
+Herbicide / Pesticide Free
+
+FREFEFREF
+
+% Daly Vakse (V) (o you how much a it 1 ®
+8 i o o cortrtaie o cet. 2.0 Caorios
+
+.y 1 s o e o i 0 64435 40833 6
+
+.
+
+TERRAW I TA®
+Fine Whole Herbs
+
+Distributed by / Distributé par
+ZooScape Corporation
+(844)449-0444-ZooScape.com
+
+PO Box 10124, Wilmington, DE, 19850",1324,247,77.78481012658227,1123,66,True,True,False,False,False,True
+156446,8.53,"Chocolate Orange
+Flavored Black,
+
+LLOOSE LEAF TEA
+113.4 GRAMS (40Z.)
+
+[",71,11,73.58333333333333,65,7,True,False,False,False,False,True
+245291,21.95,"Viggere o ————
+
+POSITIVELY
+
+TEA COMPANY
+
+POSITIVELYTEA.COM
+
+CERTITIED DRGANICBY PEYRSTLVANIA CERTIFED ORSANIC",109,12,58.833333333333336,102,9,False,False,True,False,False,False
+3550,58.53,"PLANT-BASED =g
+S
+
+SAUSAG@
+ITALIAN
+
+NET WT. 14 OZ.(397g) rez s",61,11,67.7,55,7,True,False,False,True,False,False
+280705,7.55,"e
+
+ad Crumbs
+
+talian Seasoned",29,5,83.66666666666667,27,5,False,False,False,False,False,False
+17029,5.99,"3 BN ¢
+
+WL
+S
+
+=
+
+wgg Nutrition F o v 1
+= m 4 servings per container - = I- l I
+N Serving size i 3
+H r E Amount Per Serving r_-
+x: | -: MILLET
+_ Saturated Fat 0g = T A
+. Tans FalOg
+Chqulhrio,,@ o
+SodiumOmg = 4
+Total Carbohydrate 36 2%
+Dietary Fiber3g__ 12
+Tolal Sugars 0g
+~_ Includes 0g Added Sugars 0%
+Protein 6
+VigmnDomeg ____O®
+Cocumomg O
+wnamg_____ % ‘
+"" i
+e 2in s
+qhwum«mm
+
+INGREDIENTS: ORGANIC MILLET FLOUR
+
+crtes g
+N/
+
+pocfornmbre
+NIIY99Id <=
+
+peefornmbie
+
+= I ATI0d =
+
+)
+o
+g
+g
+S
+2
+
+9
+o Industry, CA91748 @
+blggreenomnlmm @
+K v om0
+BE "" GM05
+J&qum—Frw
+14249 |
+e 7?.,?“«»4@!»: % v No ProgorVatives
+Mwuozw@",610,129,67.04379562043796,527,56,True,False,False,True,False,True
+231191,12.17,"2
+
+STARBUCKS
+
+PIKE PLACE""
+ROAST
+
+NESPRESSO VERTUO",49,7,77.77777777777777,47,8,True,False,False,False,False,False
+82932,21.77,"1 ARITlls?A{N
+
+\ ‘
+RERWIGOL 0789 1",34,7,55.5,30,4,True,False,False,False,False,False
+197196,6.99,"SPICE MIX FOR |
+
+Spice Mix For Cottage Cheese In Creamy Tomato Gravy
+Mélange d‘épices pour le Fromage blanc en
+sauce crémeuse de tomate
+
+-",138,25,88.57692307692308,118,7,False,False,False,False,False,False
+130340,21.525,"~ spicy party
+snack mix",23,5,76.33333333333333,20,2,False,False,False,False,False,False
+235609,46.97,NET WT.10Z (286),16,3,79.6,14,1,True,False,False,False,False,False
+34652,13.79,"SELF RAISING
+
+WHITE FLOUR
+
+FARM?",32,5,84.16666666666667,30,5,False,False,False,False,False,True
+149603,38.54,"Black Cherry
+Oolong Tea
+
+50 tea bags
+
+- e e o e = - =
+Ingredients: Oolong Tea, Cherries (Dried), Blackberry, Licorice Root,
+
+50 servings per container
+s 1 tea bag
+
+Calories 0
+
+i
+i
+
+Natural Flavors.
+Directions:
+Hot tea: Bring freshly drawn cold water to a rolling boil. Place 1 teabag for each desired
+cup into the teapot. Pour the boiling water into the pot, cover and let steep for 2-4
+minutes. Pour into your cup; add milk and natural sweeteners to taste.
+
+Total Fat
+Saturated Fat Og
+Trans Fat 0g
+Cholesterol
+Sodium Omg
+Total Carbohydrate Omg
+Dietary Fiber Omg
+Total Sugars 0
+includes Og Added Sugars
+Protein 0g
+
+L e W R T
+N T
+
+Iced Tea: (makes 1 qt/1L): Place 5 teabags into a teapot or heat resistant pitcher. Pour 1
+1/4 cups of freshly boiled water over the teabags. Steep for 5 minutes. Quarter fill a
+serving pitcher with cold water. Pour the tea into the serving pitcher. Add ice and top-up
+with cold water. Garnish and sweeten to taste.
+
+Herbicide / Pesticide Free
+
+FREFEFREF
+
+I
+
+0 64435 38605 4
+
+% Daly Vakse (V) (o you how much a it 1 ®
+8 i o o cortrtaie o cet. 2.0 Caorios
+.3y b U o grera rion ke
+
+.
+
+TERRAW I TA®
+Fine Whole Herbs
+
+Distributed by / Distributé par
+ZooScape Corporation
+(844)449-0444-ZooScape.com
+
+PO Box 10124, Wilmington, DE, 19850",1260,233,79.09251101321586,1072,63,True,False,False,False,False,True
+220733,14.99,"by
+
+NESCAFEe '
+Dolce 7 N
+®
+Gusto ) \+
+™
+STARBUC KS®
+¢ )
+|
+}
+INDULGENT &
+RICH?
+T 4 100% ARABICh ING:
+“White Chocolate Moghg Flavour WeiBe-Schokolade-Geschmack/ d
+Saveur chocolat blanc / Witte chocoladesmaak | ""
+~ Gusto cioccolaty bianco / Safor 3 chocolate blangg",262,48,64.97872340425532,230,17,True,False,False,False,False,True
+32297,16.99,"Classic
+
+Ba s>
+9 £5°
+
+OQKIES
+7 HERSHEY'S
+
+rand
+
+PER 10 PIECE SERVING
+
+7y | 80mg zsﬂu""
+@ el NETWT 10.5.0Z 2979)",110,22,64.78260869565217,97,14,True,True,False,False,False,False
+216333,2.58,"E
+c
+U
+
+A
+
+RY 5
+F
+
+IR
+
+T
+
+S
+
+13
+D
+ap
+.
+et pst“
+s
+ith s or
+
+ines v;‘, i
+
+mblanbo‘
+(0! or
+er y f
+pp 50
+pe 1y
+Lot
+
+ichua 5a
+S‘(aﬂd
+
+&zzoz
+
+lm
+Wc
+
+10&5
+
+9017
+swrm
+
+%77&
+‘ mmlscl““mz
+00579
+
+428‘50",190,48,67.7258064516129,177,50,True,False,False,True,False,False
+195040,29.99,wtep €0,7,2,84.5,6,1,True,True,False,False,False,False
+147682,45.27,"Gooseberry
+White Tea
+
+50 tea bags
+
+Ingredients: White Tea, Golden Berries (Gooseberry, Inca, Ushuva),
+
+50 servings per container
+s 1 tea bag
+
+Calories 0
+
+i
+i
+
+Hibiscus Flower, Cinnamon Chips, Natural Flavors.
+Directions:
+Hot tea: Bring freshly drawn cold water to a rolling boil. Place 1 teabag for each desired
+cup into the teapot. Pour the boiling water into the pot, cover and let steep for 2-4
+minutes. Pour into your cup; add milk and natural sweeteners to taste.
+
+Total Fat
+Saturated Fat Og
+Trans Fat 0g
+Cholesterol
+Sodium Omg
+Total Carbohydrate Omg
+Dietary Fiber Omg
+Total Sugars 0
+includes Og Added Sugars
+Protein 0g
+
+oy ramatn Wi = S el Y
+N T
+
+Iced Tea: (makes 1 qt/1L): Place 5 teabags into a teapot or heat resistant pitcher. Pour 1
+1/4 cups of freshly boiled water over the teabags. Steep for 5 minutes. Quarter fill a
+serving pitcher with cold water. Pour the tea into the serving pitcher. Add ice and top-up
+with cold water. Garnish and sweeten to taste.
+
+Herbicide / Pesticide Free
+
+FREFEFREF
+
+I
+
+064435 36513 4
+
+% Daly Vakse (V) (o you how much a it 1 ®
+8 i o o cortrtaie o cet. 2.0 Caorios
+.3y b U o grera rion ke
+
+.
+
+TERRAW I TA®
+Fine Whole Herbs
+
+Distributed by / Distributé par
+ZooScape Corporation
+(844)449-0444-ZooScape.com
+
+PO Box 10124, Wilmington, DE, 19850",1282,229,80.1981981981982,1097,62,True,False,False,False,False,True
+151583,10.435,"I(DelMonte)!
+{ Quality
+
+fl:: Fruit Cogktaﬂ",42,6,62.285714285714285,39,4,False,False,False,False,False,False
+37943,61.42,"BIGELOW.
+
+FAMILY TEA BLENDERS SINCE 1945 e
+
+English Teatime.
+
+BLACK TEA
+
+A full-bodied rich smooth tea
+perfect any time of day
+
+IAPPED IN FOIL POUCHES.",151,25,85.11538461538461,133,12,True,False,False,False,False,True
+93640,19.145,"GMO
+
+||o|ut
+
+ne ngmo;l ;Lct (;1(1
+
+-
+
+| organlc *
+
+Roasted Seaweed Snhacks",74,13,76.58333333333333,67,11,True,False,False,False,False,False
+286875,18.5,"o
+
+ITALIAN
+ROAST
+
+NETHT 202340 OF",33,6,67.66666666666667,31,6,True,False,False,False,False,False
+207294,2.59,"o [FERSTABLES) 4
+
+- Q
+
+oA 216",29,7,32.6,25,5,True,False,False,False,False,False
+196633,56.1,"Nutrition Facts
+25 servings per container
+Serving siz 1 teaspoon
+
+Amount per serving
+
+Calories
+
+Total Fat 0
+‘Saturated Fat 0g
+Trans Fat 0g
+
+3 13131313 22T1©
+
+Calcium Omg 0%
+Potas_Omg
+T Dy Uik (OV ks o o a s
+codconrnaes
+
+153 doy 3ot 2000 o
+iy s o genors A a4t
+
+Valerian and
+Chamomile
+Combination
+Tea
+
+2 =
+Ingredients: Chamomile, Valerian.
+
+Directions:
+
+Hot tea: Bring freshly drawn cold water to a rolling boil. Place 1 teaspoon of tea for each
+cup into the teapot. Pour the boiling water into the pot, cover and let steep for 2-4
+minutes. Pour into your cup; add milk and natural sweetener to taste.
+
+Iced Tea: (makes 1 qt/1L): Place 5 teaspoons of tea into a teapot or heat resistant pitcher.
+Pour 1 1/4 cups of freshly boiled water over the tea itself. Steep for 5 minutes. Quarter
+
+fill a serving pitcher with cold water. Pour the tea into the serving pitcher straining the
+
+tea. Add ice and top-up with cold water. Garnish and sweeten to taste.
+
+Herbicide / Pesticide Free
+
+f
+
+S e AF
+
+0 64435 13475 4
+
+TERRAW I TA®
+Fine Whole Herbs
+
+Distributed by / Distributé par
+ZooScape Corporation
+(844)449-0444-ZooScape.com
+
+PO Box 10124, Wilningion, DE, 19850
+
+i facility that",1170,207,80.67632850241546,1003,61,True,False,False,False,False,True
+182280,2.28,"‘Laffy
+
+OJELLV _ o",18,4,73.14285714285714,16,3,False,False,False,False,False,False
+77165,3.39,"-
+= = s xm —m —am
+
+4
+‘ 7 & <~
+.
+
+GOV
+
+N
+ETWTpesg NETO 45 0z (1279)
+
+- . ‘.‘“‘ ‘W ‘ B i =
+3 -",92,30,55.371428571428574,72,14,True,False,False,False,False,False
+194351,7.99,"Sweet & Spicy
+Beef Jerky",24,5,91.83333333333333,21,2,False,False,False,False,False,False
+402,17.96,e K M,5,3,49.0,3,1,False,False,False,False,False,False
+106058,16.74,"RGANIC BRO Wy,",14,3,94.72727272727273,12,1,False,False,False,False,False,False
+287712,13.95,"Cafs D Mowde
+
+“ﬁ\ﬁ\\\k\. FRENCH MARKET COFFEE STAND
+
+""FFER ang CHIC BRY
+
+DISTRIBUTED BY
+
+CAFE DU MONDE® COFFEE STAN?
+
+AT OLD JACKSON SQUARE
+NEW ORLEANS, LOUISIANA 70116
+NET WT. 13 OZ. (3688) P
+
+prudl=",200,34,74.3225806451613,175,15,True,False,False,True,False,False
+260789,42.9,"<
+
+ONEY ROA",11,3,70.5,10,3,False,False,False,False,False,False
+156401,5.29,"ORGANIC
+
+/ k4 ;
+ne.
+FRESH VEGETABLES
+
+dFLOZ(10) 946mL S8t",57,10,71.66666666666667,52,7,True,False,False,True,False,False
+52248,14.99,Viva¥Doria®,11,1,95.0,11,1,False,True,False,False,False,False
+291119,5.785,"ORGANIC
+Smooth Move®
+
+Relieves Occasional Constipation*
+
+ORIGINAL = SENNA_{
+
+Caffeine Free ""
+16 Wrapped Tea Bags /’
+Herbal Supplement
+
+NETWT1.130Z (32g)",152,21,81.45833333333333,139,12,True,False,False,False,False,False
+220718,22.99,"Base Crema
+
+whiPPing Powder .l‘r
+
+Net Weight",44,7,79.375,40,5,False,False,False,False,False,False
+268878,8.37,"NEW LOOK 8
+
+daily silk
+
+for noticeably silky soft skin
+para una piel notablemente suave y delicada
+
+FLORAL OIL ESSENCE
+
+white peach & orange blossom
+
+8 - NET WT 3.75 0Z (106g) BEAUTY BARS - TOTAL NET WT 30 0Z (1.6 LB) 850g",222,43,82.8409090909091,186,12,True,False,False,True,False,True
+87537,22.69,"3 ""ZA
+
+. SEVEN BLOSSOMS TEA
+T¢ de Siete 4,
+
+zahares:
+
+LLATARE: By",65,13,71.2,57,8,True,False,False,False,False,False
+120063,42.39,"L el N v Bt R P ‘
+ASSORTED FLAVORED FRUIT JELLY DRINKS
+N - p 5D
+
+33 ¢ x 9 Picces| NETWT:104 oz (297 g)",102,26,60.333333333333336,80,5,True,False,False,True,False,True
+106361,32.34,"ARTIFICIALLY FLAVORED
+
+B
+=
+0=
+=
+furar]
+==
+=
+==
+1
+=
+=
+o
+=
+
+g
+=D
+=
+—=
+—
+[}
+ocC
+-
+
+ARTIFICIALLY FLAVORED
+
+AROMATISE ARTIFICIELLEMENT",129,27,63.4,126,28,True,False,False,False,False,True
+55196,65.7,"GrabiniGo}
+
+NETWT 30 (85g)",26,4,63.0,24,3,True,False,False,False,False,False
+193960,4.46,| S,3,2,63.0,2,1,False,False,False,False,False,False
+216337,18.28,"RICE BOWL
+
+Toasted sesame and zesty ginger pair for an
+infusion of umami-rich, hibachi-style flavor",99,15,89.21052631578948,87,4,False,False,False,False,False,False
+50253,52.98,"Food tol.
+
+\—\ea\ih
+oe\\u",25,4,81.5,24,4,False,False,False,False,False,False
+170960,39.99,"3 Jerky Made from Solid Pieces of
+» <= Beef Marinated In Brown Ale ==
+Smoke Flavoring & Caramel Color Added
+INGREDIENTS: et so s (e, o oized sy |
+
+proten, com sy, caramel ook, polassm srbale), BEES
+brown sugar,com syup, honey, avorgs, oured derrose, |
+
+Servi
+Bty e NETWT.1Ib.
+
+ot Pty o (16 0z.)
+TaaFaioy
+
+7 0%
+s o
+Dalt
+=
+
+Distribotd By: oo ChooR SnacksInc. « ebanon,PA 17042
+(117)273.74% - BBjerky.com
+
+B | Totai Fat o3",419,78,62.028985507246375,358,23,True,False,False,False,False,True
+144073,30.01,"|
+' Fig
+
+o
+
+[ i whie Toa
+40z (Loose) ‘i.i",41,11,62.916666666666664,35,7,True,False,False,False,False,False
+201477,38.49,"FAIR TRADE
+CERTIFIED
+
+ORGANIC
+REAL BREWED
+TEA
+
+40 CALORIES
+PER CAN
+
+JUST SWEET
+ENOUGH™ *
+
+"" lemontea |
+YJUST SWEET ENOUGH™
+
+lemon tea
+JUST SWEET ENOUGH™ O
+@ - 355 ML CANS (1.40)
+v - 12 FLOL CANS (48 FL 02)",205,41,80.38983050847457,179,20,True,False,False,False,False,False
+202612,14.39,"ONE
+
+cookies ‘n’ creme
+
+SHIPS WITH
+COOL PACKS
+
+when shippsd.and
+sold'by -amazon.com PROTEIN
+PRER
+
+r 71
+
+cookies
+o’ creme
+
+N
+
+cookies FLavor spiren
+WL PROTEIN BAR",161,26,63.64,148,20,True,False,False,False,False,False
+228323,20.6,"T FINISHING SAUCE
+
+GOURMET FINISHING SAUCE
+
+SAUCE "" gz
+
+CLASSIC GREEN
+PEPPERCORN
+
+2 SERVIGS
+
+ELEVATE YOUR PLATE®
+. e .",118,20,70.84210526315789,106,13,True,False,False,False,False,True
+10373,11.94,Wy assl),8,2,68.66666666666667,7,1,False,False,False,False,False,False
+118238,9.86,REAL CHOCOLATE CHIP.COOKIES,27,3,69.5,25,1,False,False,False,False,False,False
+142345,52.61,"|
+' Vanilla Cream
+
+[ i ecaf Black Toa o
+
+40z (Loose) i.i",56,13,58.0,47,6,True,False,False,False,False,True
+84044,23.29,"g.\Lrooos
+
+m 80
+
+O
+THINS
+
+S8 Goldensunripenedcom
+with the great taste of  A\A
+\ o fourwholegrais",96,16,71.6875,86,10,True,False,False,False,False,False
+289330,2.99,"BEEF POT
+
+ROAST
+
+tender beef with potatoes
+and carrots in a savory
+brown sauce",78,14,91.625,69,7,False,False,False,False,False,False
+233938,24.5,< ; —,5,3,77.0,3,1,False,False,False,False,False,False
+12068,12.88,"RN BN N TS N N NN S, e e",24,10,42.857142857142854,15,1,False,False,False,False,False,False
+266573,5.62,"By Appointment to
+HRH The Prince of Wales
+Suppliers of Beverages, Taylors of Harrogate
+North Yorkshire
+
+TAYLORS
+
+OF HARROGATE - SINCE 1886
+
+SCOTTISH
+BREAKFAST TEA
+
+BLACK TEA",173,27,90.67857142857143,155,13,True,False,False,False,False,True
+120806,1.88,"ICED
+TRIPLE BERRY
+
+18OMG CAFFI
+
+SPATKLING BEVERAGE
+607 (PR 473t",63,10,61.55555555555556,58,7,True,False,False,False,False,False
+76474,77.99,"PREMIUM FLAVOR SYRUP
+
+MANUFACTURED UNDER THE AUTHORITY OF
+COOLBREEZE BEVERAGES
+
+TAMPA, FL
+(813)635-0000
+
+coolbreezebeverages.com
+
+2.5GALLONS",140,15,82.2,132,11,True,False,False,True,False,True
+196481,43.32,"Garlic Tea
+
+(Cortted Orgaric)
+8 0z (Loose) ii",45,8,73.33333333333333,40,4,True,False,False,False,False,False
+148380,50.58,"Black Raspberry
+Orange
+
+Chamomile Tea
+4oz {Lnuse)",49,7,68.0,46,5,True,False,False,True,False,True
+137493,20.915,"REVITALIFT 3
+
+INTENSIVE OVERNIGHT MASK
+CREME-MASQUE NUIT COMPLETE",65,8,84.72727272727273,60,4,True,False,False,False,False,False
+54835,13.99,"HERBAL TEA
+
+ROOIBOS
+
+16 TEA BAGS NET WT 1.12
+
+CHOICE
+
+Op c©
+D GANI
+
+bl""ghtgl’a
+HERBAL TEA
+
+MINT SAGE
+
+16 TEA BAGS NET WT 1.02 0z/299
+
+CHOICE
+
+9 — vNao
+
+HERBAL TEA
+GRAPEFRUIT
+HONEYBUSH
+
+BAGS NET WT 1.02 0z/29g",208,39,81.97619047619048,185,27,True,False,False,False,False,False
+132016,8.95,"- \"",? ,3;:‘.1 Chlckaoas nnu, nu ¢ -",36,8,77.46153846153847,29,1,True,False,False,False,False,False
+257677,2.265,"THE
+Egd~ PERFECT CJp
+POR RECIPES
+
+Duket:
+
+MAYONNAISE
+
+,“’ coriia cREARZ
+
+& .
+$atfor picnics & P’
+NETgFL oz (2""
+
+b",113,21,61.64705882352941,102,15,True,True,False,True,False,False
+114494,76.265,"GOLD
+
+e, CAKE MIX",17,4,91.0,15,3,False,False,False,False,False,False
+262627,20.5,"PORAGE OATS
+
+otts",17,3,87.14285714285714,16,3,False,False,False,False,False,False
+69995,21.995,"VALUE SIZE
+
+<
+
+\V’
+gévalia
+House Blend
+
+L X JoJo
+
+MEDIUM
+
+~ GROUND",66,13,67.14285714285714,61,13,False,False,False,True,False,False
+71915,68.99,"DLY
+
+>
+=
+=
+
+ORGANIC *
+ALLERGY FRIEN
+
+EST. / 2014 *\\M y/,/
+
+kkkkkkkkkk RE R R H oTTos ‘\!
+.............. .
+
+ULTIMATE COOKIE MY
+ONE M1, ENDLESS POSSIEILITIES
+
+ORGANIC +
+ALLERGY FRIEN
+
+Serving
+Suggestion
+
+CR B N0
+NET WT 12.2 07 (3469)",232,43,74.7,206,25,True,False,False,False,False,False
+12865,3.12,"a
+mazon grocery
+
+CHIVES
+
+Freeze Dried",37,6,83.33333333333333,35,6,False,False,False,False,False,False
+277020,3.22,"iy
+
+YAMAVOTOYAMA®
+
+Aluminum sealed teabag keeps
+in freshness for better taste.
+
+1 tea netwt. 1.09 oz,
+bags (31 grams)",117,19,86.0,104,9,True,False,False,True,False,False
+677,4.99,"cheeky cheeky
+
+- CNuUITO
+
+4
+
+@  awuamy
+
+— ——",44,9,64.84615384615384,39,9,True,False,False,False,False,False
+7354,85.97,"s\\“‘%”‘%
+EZX
+
+.@a
+
+TURKEY JEKY
+
+257\ HICKORY SMOKE",51,8,68.44444444444444,48,8,True,False,False,False,False,False
+234300,12.99,"@O@A@,
+
+‘| dwim/N",17,3,56.5,16,3,False,False,False,False,False,False
+71904,30.195,"S — — ST, SEATTLE, WA s v
+
+:0BERTO
+
+=== CLASSICS ===
+
+Thin Sty
+DRlGlNALﬁ@FEF JERKY
+
+® NETWT2200, (29",100,19,54.578947368421055,87,10,True,False,False,False,False,False
+207195,47.99,"> INDIA,
+
+NDIAN GOLDEN
+E ATI RICE",33,7,71.42857142857143,29,4,False,False,False,False,False,False
+265747,8.99,"| s ICEDTEAN B
+0 LEMON @&
+
+QUARTS  FLAVOR
+LB LOWCALORIE ICED TEAMIX",67,13,64.3157894736842,57,5,True,False,False,True,False,False
+117269,4.56,"MORE |
+1
+250",12,4,74.8,11,3,True,False,False,False,False,False
+297779,16.99,"7
+
+Breg
+
+RS i your gy
+nm""m Use the
+Minatch o
+Rt
+
+hh::”""""""n&ed‘
+
+am on o WHITE RUSSIAN
+
+%,
+Ny,
+
+Yoy i
+iy gheimeg FLAVORED DECAF COFFEE
+
+aCoffee.com
+
+Volcanic
+0z (1LB) 4538
+
+NET WT 16",181,35,60.46875,162,25,True,False,False,True,False,True
+79644,5.34,"“OLUTEN FReg—
+ey
+
+yog
+
+Falll
+1)",31,6,61.0,30,7,True,False,False,False,False,False
